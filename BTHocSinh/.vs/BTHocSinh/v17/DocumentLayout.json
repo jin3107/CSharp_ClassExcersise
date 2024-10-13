@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\BTHocSinh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4DA540-21E6-4469-8AEA-C838AFB70973}|BTHocSinh\\BTHocSinh.csproj|d:\\my project\\it\\visual studio 2022\\c#_oop\\exercise_in_class\\bthocsinh\\bthocsinh\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4DA540-21E6-4469-8AEA-C838AFB70973}|BTHocSinh\\BTHocSinh.csproj|solutionrelative:bthocsinh\\output.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4DA540-21E6-4469-8AEA-C838AFB70973}|BTHocSinh\\BTHocSinh.csproj|D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\BTHocSinh\\bthocsinh\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4DA540-21E6-4469-8AEA-C838AFB70973}|BTHocSinh\\BTHocSinh.csproj|solutionrelative:bthocsinh\\input.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4DA540-21E6-4469-8AEA-C838AFB70973}|BTHocSinh\\BTHocSinh.csproj|D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\BTHocSinh\\bthocsinh\\hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4DA540-21E6-4469-8AEA-C838AFB70973}|BTHocSinh\\BTHocSinh.csproj|solutionrelative:bthocsinh\\hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA4DA540-21E6-4469-8AEA-C838AFB70973}|BTHocSinh\\BTHocSinh.csproj|D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\BTHocSinh\\bthocsinh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA4DA540-21E6-4469-8AEA-C838AFB70973}|BTHocSinh\\BTHocSinh.csproj|solutionrelative:bthocsinh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Output.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\BTHocSinh\\BTHocSinh\\Output.cs",
+              "RelativeDocumentMoniker": "BTHocSinh\\Output.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\BTHocSinh\\BTHocSinh\\Output.cs",
+              "RelativeToolTip": "BTHocSinh\\Output.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:35:46.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Input.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\BTHocSinh\\BTHocSinh\\Input.cs",
+              "RelativeDocumentMoniker": "BTHocSinh\\Input.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\BTHocSinh\\BTHocSinh\\Input.cs",
+              "RelativeToolTip": "BTHocSinh\\Input.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAuwD0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:35:34.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HocSinh.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\BTHocSinh\\BTHocSinh\\HocSinh.cs",
+              "RelativeDocumentMoniker": "BTHocSinh\\HocSinh.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\BTHocSinh\\BTHocSinh\\HocSinh.cs",
+              "RelativeToolTip": "BTHocSinh\\HocSinh.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvyMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:32:54.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\BTHocSinh\\BTHocSinh\\Program.cs",
+              "RelativeDocumentMoniker": "BTHocSinh\\Program.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\BTHocSinh\\BTHocSinh\\Program.cs",
+              "RelativeToolTip": "BTHocSinh\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T07:31:50.134Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

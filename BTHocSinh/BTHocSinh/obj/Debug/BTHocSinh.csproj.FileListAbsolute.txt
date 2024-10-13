@@ -1,0 +1,7 @@
+D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\BTHocSinh\BTHocSinh\bin\Debug\BTHocSinh.exe.config
+D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\BTHocSinh\BTHocSinh\bin\Debug\BTHocSinh.exe
+D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\BTHocSinh\BTHocSinh\bin\Debug\BTHocSinh.pdb
+D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\BTHocSinh\BTHocSinh\obj\Debug\BTHocSinh.csproj.AssemblyReference.cache
+D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\BTHocSinh\BTHocSinh\obj\Debug\BTHocSinh.csproj.CoreCompileInputs.cache
+D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\BTHocSinh\BTHocSinh\obj\Debug\BTHocSinh.exe
+D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\BTHocSinh\BTHocSinh\obj\Debug\BTHocSinh.pdb
