@@ -1,0 +1,7 @@
+D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\QuanLyCanBo\QuanLyCanBo\bin\Debug\QuanLyCanBo.exe.config
+D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\QuanLyCanBo\QuanLyCanBo\bin\Debug\QuanLyCanBo.exe
+D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\QuanLyCanBo\QuanLyCanBo\bin\Debug\QuanLyCanBo.pdb
+D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\QuanLyCanBo\QuanLyCanBo\obj\Debug\QuanLyCanBo.csproj.AssemblyReference.cache
+D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\QuanLyCanBo\QuanLyCanBo\obj\Debug\QuanLyCanBo.csproj.CoreCompileInputs.cache
+D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\QuanLyCanBo\QuanLyCanBo\obj\Debug\QuanLyCanBo.exe
+D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\QuanLyCanBo\QuanLyCanBo\obj\Debug\QuanLyCanBo.pdb

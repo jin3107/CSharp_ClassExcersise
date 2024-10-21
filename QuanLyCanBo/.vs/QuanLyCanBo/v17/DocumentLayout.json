@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyCanBo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B7E063-7BBE-4A66-AAFB-06472DB0CD10}|QuanLyCanBo\\QuanLyCanBo.csproj|d:\\my project\\it\\visual studio 2022\\c#_oop\\exercise_in_class\\quanlycanbo\\quanlycanbo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B7E063-7BBE-4A66-AAFB-06472DB0CD10}|QuanLyCanBo\\QuanLyCanBo.csproj|solutionrelative:quanlycanbo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B7E063-7BBE-4A66-AAFB-06472DB0CD10}|QuanLyCanBo\\QuanLyCanBo.csproj|d:\\my project\\it\\visual studio 2022\\c#_oop\\exercise_in_class\\quanlycanbo\\quanlycanbo\\qlcb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B7E063-7BBE-4A66-AAFB-06472DB0CD10}|QuanLyCanBo\\QuanLyCanBo.csproj|solutionrelative:quanlycanbo\\qlcb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B7E063-7BBE-4A66-AAFB-06472DB0CD10}|QuanLyCanBo\\QuanLyCanBo.csproj|d:\\my project\\it\\visual studio 2022\\c#_oop\\exercise_in_class\\quanlycanbo\\quanlycanbo\\canbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B7E063-7BBE-4A66-AAFB-06472DB0CD10}|QuanLyCanBo\\QuanLyCanBo.csproj|solutionrelative:quanlycanbo\\canbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CanBo.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyCanBo\\QuanLyCanBo\\CanBo.cs",
+              "RelativeDocumentMoniker": "QuanLyCanBo\\CanBo.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyCanBo\\QuanLyCanBo\\CanBo.cs",
+              "RelativeToolTip": "QuanLyCanBo\\CanBo.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAswFQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T08:12:26.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QLCB.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyCanBo\\QuanLyCanBo\\QLCB.cs",
+              "RelativeDocumentMoniker": "QuanLyCanBo\\QLCB.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyCanBo\\QuanLyCanBo\\QLCB.cs",
+              "RelativeToolTip": "QuanLyCanBo\\QLCB.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:59:28.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyCanBo\\QuanLyCanBo\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyCanBo\\Program.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyCanBo\\QuanLyCanBo\\Program.cs",
+              "RelativeToolTip": "QuanLyCanBo\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T07:59:17.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

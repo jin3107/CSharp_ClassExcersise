@@ -1,0 +1,103 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace QuanLyCanBo
+{
+    internal class CanBo
+    {
+        private string ten;
+        private int tuoi;
+        private string gioiTinh;
+        private string diaChi;
+
+        public CanBo() { }
+
+        public CanBo(string ten, int tuoi, string gioiTinh, string diaChi)
+        {
+            this.ten = ten;
+            this.tuoi = tuoi;
+            this.gioiTinh = gioiTinh;
+            this.diaChi = diaChi;
+        }
+
+        public string Ten 
+        { 
+            get => ten; 
+            set
+            {
+                if (!string.IsNullOrWhiteSpace(value))
+                    ten = value.Trim();
+                else
+                    throw new ArgumentException("Tên không được để trống.");
+            }
+        }
+
+        public int Tuoi 
+        { 
+            get => tuoi; 
+            set
+            {
+                if (value >= 1)
+                    tuoi = value;
+                else
+                    throw new ArgumentException("Tuổi là số dương.");
+            }
+        }
+
+        public string GioiTinh 
+        { 
+            get => gioiTinh;
+            set
+            {
+                if (!string.IsNullOrWhiteSpace(value))
+                    gioiTinh = value.Trim();
+                else
+                    throw new ArgumentException("Giới tính không được để trống.");
+            }
+        }
+
+        public string DiaChi 
+        { 
+            get => diaChi;
+            set
+            {
+                if (!string.IsNullOrWhiteSpace(value))
+                    diaChi = value.Trim();
+                else
+                    throw new ArgumentException("Địa chỉ không được để trống.");
+            }
+        }
+
+        public virtual void Nhap()
+        {
+            Console.InputEncoding = Encoding.UTF8;
+            Console.OutputEncoding = Encoding.UTF8;
+
+            Console.Write("Nhập tên: ");
+            Ten = Console.ReadLine();
+
+            Console.Write("Nhập tuổi: ");
+            Tuoi = int.Parse(Console.ReadLine());
+
+            Console.Write("Nhập giời tính: ");
+            GioiTinh = Console.ReadLine();
+
+            Console.Write("Nhập địa chỉ: ");
+            DiaChi = Console.ReadLine();
+        }
+
+        public virtual void Xuat()
+        {
+            Console.InputEncoding = Encoding.UTF8;
+            Console.OutputEncoding = Encoding.UTF8;
+
+            Console.Write($"Tên: {Ten}");
+            Console.Write($"Tuổi: {Tuoi}");
+            Console.Write($"Giới tính: {GioiTinh}");
+            Console.Write($"Địa chỉ: {DiaChi}");
+        }
+    }
+}
