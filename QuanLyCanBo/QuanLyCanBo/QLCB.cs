@@ -19,12 +19,13 @@ namespace QuanLyCanBo
 
             while (true)
             {
-                Console.WriteLine("Nhập 1: Công Nhân, 2: Kỹ Sư, 3: Nhân Viên\n");
+                Console.WriteLine("1: Công Nhân, 2: Kỹ Sư, 3: Nhân Viên");
+                Console.Write("Lựa chọn của bạn: ");
                 if (int.TryParse(Console.ReadLine(), out loai) && loai >= 1 && loai <= 3)
                 {
                     break;
                 }
-                Console.WriteLine("\nLựa chọn không hợp lệ, vui lòng chọn 1, 2 hoặc 3.\n");
+                Console.WriteLine("Lựa chọn không hợp lệ, vui lòng chọn 1, 2 hoặc 3.\n");
             }
 
             CanBo canBo;
@@ -66,7 +67,7 @@ namespace QuanLyCanBo
                 return;
             }
 
-            Console.WriteLine("\nThông tin các cán bộ:");
+            Console.WriteLine("\n--- Thông tin các cán bộ ---");
             foreach (var canBo in danhSachCanBo)
             {
                 canBo.Xuat();

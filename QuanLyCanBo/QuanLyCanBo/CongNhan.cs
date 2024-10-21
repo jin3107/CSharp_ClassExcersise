@@ -54,7 +54,7 @@ namespace QuanLyCanBo
             Console.OutputEncoding = Encoding.UTF8;
 
             base.Xuat();
-            Console.Write($"Bậc: {Bac}");
+            Console.Write($"Bậc: {Bac}\n");
         }
     }
 }

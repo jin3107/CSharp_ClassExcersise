@@ -102,7 +102,7 @@ namespace QuanLyCanBo
             Console.InputEncoding = Encoding.UTF8;
             Console.OutputEncoding = Encoding.UTF8;
 
-            Console.WriteLine($"Tên: {Ten}, Tuổi: {Tuoi}, Giới tính: {GioiTinh}, Địa chỉ: {DiaChi}");
+            Console.WriteLine($"\nTên: {Ten}, Tuổi: {Tuoi}, Giới tính: {GioiTinh}, Địa chỉ: {DiaChi}");
         }
     }
 }
