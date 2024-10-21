@@ -35,8 +35,17 @@ namespace QuanLyCanBo
             Console.OutputEncoding = Encoding.UTF8;
 
             base.Nhap();
-            Console.Write("Nhập bậc: ");
-            Bac = int.Parse(Console.ReadLine());
+            while (true)
+            {
+                Console.Write("Nhập bậc: ");
+                if (int.TryParse(Console.ReadLine(), out bac) && bac >= 0)
+                {
+                    Bac = bac;
+                    break;
+                }
+                else
+                    Console.WriteLine("\nBậc không hợp lệ! Vui lòng nhập lại.\n");
+            }
         }
 
         public override void Xuat()

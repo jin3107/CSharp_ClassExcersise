@@ -14,9 +14,18 @@ namespace QuanLyCanBo
             Console.InputEncoding = Encoding.UTF8;
             Console.OutputEncoding = Encoding.UTF8;
 
-            Console.WriteLine("Nhập thông tin cán bộ.");
-            Console.WriteLine("Nhập 1: Công Nhân, 2: Kỹ Sư, 3: Nhân Viên");
-            int loai = int.Parse(Console.ReadLine());
+            Console.WriteLine("\nNhập thông tin cán bộ.");
+            int loai;
+
+            while (true)
+            {
+                Console.WriteLine("Nhập 1: Công Nhân, 2: Kỹ Sư, 3: Nhân Viên\n");
+                if (int.TryParse(Console.ReadLine(), out loai) && loai >= 1 && loai <= 3)
+                {
+                    break;
+                }
+                Console.WriteLine("\nLựa chọn không hợp lệ, vui lòng chọn 1, 2 hoặc 3.\n");
+            }
 
             CanBo canBo;
             switch (loai)
@@ -31,12 +40,19 @@ namespace QuanLyCanBo
                     canBo = new NhanVien();
                     break;
                 default:
-                    Console.WriteLine("Không hợp lệ.");
+                    Console.WriteLine("\nKhông hợp lệ.");
                     return;
             }
 
-            canBo.Nhap();
-            danhSachCanBo.Add(canBo);
+            try
+            {
+                canBo.Nhap();
+                danhSachCanBo.Add(canBo);
+            }
+            catch (ArgumentException ex)
+            {
+                Console.WriteLine($"Lỗi khi nhập dữ liệu: {ex.Message}");
+            }
         }
 
         public void Output()
@@ -44,7 +60,13 @@ namespace QuanLyCanBo
             Console.InputEncoding = Encoding.UTF8;
             Console.OutputEncoding = Encoding.UTF8;
 
-            Console.WriteLine("Thông tin các cán bộ:");
+            if (danhSachCanBo.Count == 0)
+            {
+                Console.WriteLine("\nKhông có cán bộ nào trong danh sách.\n");
+                return;
+            }
+
+            Console.WriteLine("\nThông tin các cán bộ:");
             foreach (var canBo in danhSachCanBo)
             {
                 canBo.Xuat();
@@ -57,7 +79,7 @@ namespace QuanLyCanBo
 
             if (result.Count() > 0)
             {
-                Console.WriteLine($"Tìm thấy {result.Count()} cán bộ có tên chứa '{name}':");
+                Console.WriteLine($"\nTìm thấy {result.Count()} cán bộ có tên chứa '{name}':");
                 foreach (var canBo in result)
                 {
                     canBo.Xuat();
@@ -65,7 +87,7 @@ namespace QuanLyCanBo
             }
             else
             {
-                Console.WriteLine($"Không tìm thấy cán bộ nào có tên chứa '{name}'.");
+                Console.WriteLine($"\nKhông tìm thấy cán bộ nào có tên chứa '{name}'.\n");
             }
         }
     }

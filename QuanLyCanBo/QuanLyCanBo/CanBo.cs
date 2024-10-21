@@ -17,10 +17,10 @@ namespace QuanLyCanBo
 
         public CanBo(string ten, int tuoi, string gioiTinh, string diaChi)
         {
-            this.ten = ten;
-            this.tuoi = tuoi;
-            this.gioiTinh = gioiTinh;
-            this.diaChi = diaChi;
+            this.Ten = ten;
+            this.Tuoi = tuoi;
+            this.GioiTinh = gioiTinh;
+            this.DiaChi = diaChi;
         }
 
         public string Ten 
@@ -79,10 +79,18 @@ namespace QuanLyCanBo
             Console.Write("Nhập tên: ");
             Ten = Console.ReadLine();
 
-            Console.Write("Nhập tuổi: ");
-            Tuoi = int.Parse(Console.ReadLine());
+            while (true)
+            {
+                Console.Write("Nhập tuổi: ");
+                if (int.TryParse(Console.ReadLine(), out int tuoi) && tuoi > 0)
+                {
+                    Tuoi = tuoi;
+                    break;
+                }
+                Console.WriteLine("Tuổi phải là một số nguyên dương.");
+            }
 
-            Console.Write("Nhập giời tính: ");
+            Console.Write("Nhập giới tính: ");
             GioiTinh = Console.ReadLine();
 
             Console.Write("Nhập địa chỉ: ");
@@ -94,10 +102,7 @@ namespace QuanLyCanBo
             Console.InputEncoding = Encoding.UTF8;
             Console.OutputEncoding = Encoding.UTF8;
 
-            Console.Write($"Tên: {Ten}");
-            Console.Write($"Tuổi: {Tuoi}");
-            Console.Write($"Giới tính: {GioiTinh}");
-            Console.Write($"Địa chỉ: {DiaChi}");
+            Console.WriteLine($"Tên: {Ten}, Tuổi: {Tuoi}, Giới tính: {GioiTinh}, Địa chỉ: {DiaChi}");
         }
     }
 }

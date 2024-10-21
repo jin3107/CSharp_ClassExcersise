@@ -13,12 +13,12 @@ namespace QuanLyCanBo
             QLCB qlcb = new QLCB();
             while (true)
             {
-                Console.WriteLine("\nChọn chức năng:");
+                Console.WriteLine("\n\nChọn chức năng:");
                 Console.WriteLine("1: Thêm cán bộ");
                 Console.WriteLine("2: Hiển thị danh sách cán bộ");
                 Console.WriteLine("3: Tìm kiếm cán bộ theo tên");
                 Console.WriteLine("4: Thoát");
-                Console.Write("Lựa chọn của bạn: ");
+                Console.Write("\nLựa chọn của bạn: ");
 
                 if (!int.TryParse(Console.ReadLine(), out int choice))
                 {
