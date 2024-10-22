@@ -14,7 +14,7 @@ namespace QuanLyCanBo
 
         public CongNhan(string ten, int tuoi, string gioiTinh, string diaChi, int bac) : base(ten, tuoi, gioiTinh, diaChi)
         {
-            this.Bac = bac;
+            this.bac = bac;
         }
 
         public int Bac 
