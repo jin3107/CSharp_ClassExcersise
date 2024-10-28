@@ -14,7 +14,7 @@ namespace QuanLyCanBo
 
         public KySu(string ten, int tuoi, string gioiTinh, string diaChi, string nganhDaoTao) : base(ten, tuoi, gioiTinh, diaChi)
         {
-            this.nganhDaoTao = nganhDaoTao;
+            this.NganhDaoTao = nganhDaoTao;
         }
 
         public string NganhDaoTao 

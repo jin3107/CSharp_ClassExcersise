@@ -17,10 +17,10 @@ namespace QuanLyCanBo
 
         public CanBo(string ten, int tuoi, string gioiTinh, string diaChi)
         {
-            this.ten = ten;
-            this.tuoi = tuoi;
-            this.gioiTinh = gioiTinh;
-            this.diaChi = diaChi;
+            this.Ten = ten;
+            this.Tuoi = tuoi;
+            this.GioiTinh = gioiTinh;
+            this.DiaChi = diaChi;
         }
 
         public string Ten 
