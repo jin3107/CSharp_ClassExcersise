@@ -1,0 +1,7 @@
+D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\QuanLyHoSoHS\QuanLyHoSoHS\bin\Debug\QuanLyHoSoHS.exe.config
+D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\QuanLyHoSoHS\QuanLyHoSoHS\bin\Debug\QuanLyHoSoHS.exe
+D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\QuanLyHoSoHS\QuanLyHoSoHS\bin\Debug\QuanLyHoSoHS.pdb
+D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\QuanLyHoSoHS\QuanLyHoSoHS\obj\Debug\QuanLyHoSoHS.csproj.AssemblyReference.cache
+D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\QuanLyHoSoHS\QuanLyHoSoHS\obj\Debug\QuanLyHoSoHS.csproj.CoreCompileInputs.cache
+D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\QuanLyHoSoHS\QuanLyHoSoHS\obj\Debug\QuanLyHoSoHS.exe
+D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\QuanLyHoSoHS\QuanLyHoSoHS\obj\Debug\QuanLyHoSoHS.pdb
