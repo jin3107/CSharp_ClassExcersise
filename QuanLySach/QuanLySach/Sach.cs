@@ -22,8 +22,29 @@ namespace QuanLySach
             this.SoTrang = soTrang;
         }
 
-        public string TenTacGia { get => tenTacGia; set => tenTacGia = value; }
-        public int SoTrang { get => soTrang; set => soTrang = value; }
+        public string TenTacGia 
+        { 
+            get => tenTacGia; 
+            set
+            {
+                if (!string.IsNullOrWhiteSpace(value))
+                    tenTacGia = value.Trim();
+                else
+                    throw new ArgumentException("Tên tác giả không được để trống.");
+            }
+        }
+
+        public int SoTrang 
+        { 
+            get => soTrang; 
+            set
+            {
+                if (value > 0)
+                    soTrang = value;
+                else
+                    throw new ArgumentException("Số trang là số dương.");
+            }
+        }
 
         public override void Nhap()
         {
@@ -34,8 +55,16 @@ namespace QuanLySach
             Console.Write("Nhập tên tác giả: ");
             TenTacGia = Console.ReadLine();
 
-            Console.Write("Nhập số trang: ");
-            SoTrang = int.Parse(Console.ReadLine());
+            while (true)
+            {
+                Console.Write("Nhập số trang: ");
+                if (int.TryParse(Console.ReadLine(), out int soTrang) && soTrang > 0)
+                {
+                    SoTrang = soTrang;
+                    break;
+                }
+                Console.WriteLine("Số trang là số dương.");
+            }
         }
 
         public override void Xuat()

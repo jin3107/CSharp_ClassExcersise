@@ -20,7 +20,17 @@ namespace QuanLySach
             this.NgayPhatHanh = ngayPhatHanh;
         }
 
-        public int NgayPhatHanh { get => ngayPhatHanh; set => ngayPhatHanh = value; }
+        public int NgayPhatHanh 
+        { 
+            get => ngayPhatHanh; 
+            set
+            {
+                if (value > 0 && value <= 31)
+                    ngayPhatHanh = value;
+                else
+                    throw new ArgumentException("Ngày phát hành là số dương.");
+            }
+        }
 
         public override void Nhap()
         {
@@ -28,8 +38,15 @@ namespace QuanLySach
             Console.InputEncoding = Encoding.UTF8;
             Console.OutputEncoding = Encoding.UTF8;
 
-            Console.Write($"Nhập ngày phát hành: ");
-            NgayPhatHanh = int.Parse( Console.ReadLine());
+            while (true)
+            { 
+                Console.Write($"Nhập ngày phát hành: "); 
+                if (int.TryParse(Console.ReadLine(), out int ngayPhatHanh) && ngayPhatHanh > 0 && ngayPhatHanh <= 31)
+                {
+                    NgayPhatHanh = ngayPhatHanh;
+                    break;
+                }
+            }
         }
 
         public override void Xuat()

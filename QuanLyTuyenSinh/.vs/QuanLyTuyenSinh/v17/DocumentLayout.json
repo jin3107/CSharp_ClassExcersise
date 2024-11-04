@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyTuyenSinh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF55954-8B11-4DE3-A1AD-15267ACD3C0E}|QuanLyTuyenSinh\\QuanLyTuyenSinh.csproj|d:\\my project\\it\\visual studio 2022\\c#_oop\\exercise_in_class\\quanlytuyensinh\\quanlytuyensinh\\qlts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF55954-8B11-4DE3-A1AD-15267ACD3C0E}|QuanLyTuyenSinh\\QuanLyTuyenSinh.csproj|solutionrelative:quanlytuyensinh\\qlts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF55954-8B11-4DE3-A1AD-15267ACD3C0E}|QuanLyTuyenSinh\\QuanLyTuyenSinh.csproj|d:\\my project\\it\\visual studio 2022\\c#_oop\\exercise_in_class\\quanlytuyensinh\\quanlytuyensinh\\thisinhkhoia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF55954-8B11-4DE3-A1AD-15267ACD3C0E}|QuanLyTuyenSinh\\QuanLyTuyenSinh.csproj|solutionrelative:quanlytuyensinh\\thisinhkhoia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF55954-8B11-4DE3-A1AD-15267ACD3C0E}|QuanLyTuyenSinh\\QuanLyTuyenSinh.csproj|d:\\my project\\it\\visual studio 2022\\c#_oop\\exercise_in_class\\quanlytuyensinh\\quanlytuyensinh\\thisinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF55954-8B11-4DE3-A1AD-15267ACD3C0E}|QuanLyTuyenSinh\\QuanLyTuyenSinh.csproj|solutionrelative:quanlytuyensinh\\thisinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF55954-8B11-4DE3-A1AD-15267ACD3C0E}|QuanLyTuyenSinh\\QuanLyTuyenSinh.csproj|d:\\my project\\it\\visual studio 2022\\c#_oop\\exercise_in_class\\quanlytuyensinh\\quanlytuyensinh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF55954-8B11-4DE3-A1AD-15267ACD3C0E}|QuanLyTuyenSinh\\QuanLyTuyenSinh.csproj|solutionrelative:quanlytuyensinh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF55954-8B11-4DE3-A1AD-15267ACD3C0E}|QuanLyTuyenSinh\\QuanLyTuyenSinh.csproj|d:\\my project\\it\\visual studio 2022\\c#_oop\\exercise_in_class\\quanlytuyensinh\\quanlytuyensinh\\thisinhkhoic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF55954-8B11-4DE3-A1AD-15267ACD3C0E}|QuanLyTuyenSinh\\QuanLyTuyenSinh.csproj|solutionrelative:quanlytuyensinh\\thisinhkhoic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AF55954-8B11-4DE3-A1AD-15267ACD3C0E}|QuanLyTuyenSinh\\QuanLyTuyenSinh.csproj|d:\\my project\\it\\visual studio 2022\\c#_oop\\exercise_in_class\\quanlytuyensinh\\quanlytuyensinh\\thisinhkhoib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AF55954-8B11-4DE3-A1AD-15267ACD3C0E}|QuanLyTuyenSinh\\QuanLyTuyenSinh.csproj|solutionrelative:quanlytuyensinh\\thisinhkhoib.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyTuyenSinh\\QuanLyTuyenSinh\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLyTuyenSinh\\Program.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyTuyenSinh\\QuanLyTuyenSinh\\Program.cs",
+              "RelativeToolTip": "QuanLyTuyenSinh\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwBMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T00:55:43.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThiSinhKhoiC.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyTuyenSinh\\QuanLyTuyenSinh\\ThiSinhKhoiC.cs",
+              "RelativeDocumentMoniker": "QuanLyTuyenSinh\\ThiSinhKhoiC.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyTuyenSinh\\QuanLyTuyenSinh\\ThiSinhKhoiC.cs",
+              "RelativeToolTip": "QuanLyTuyenSinh\\ThiSinhKhoiC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T00:55:24.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThiSinhKhoiB.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyTuyenSinh\\QuanLyTuyenSinh\\ThiSinhKhoiB.cs",
+              "RelativeDocumentMoniker": "QuanLyTuyenSinh\\ThiSinhKhoiB.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyTuyenSinh\\QuanLyTuyenSinh\\ThiSinhKhoiB.cs",
+              "RelativeToolTip": "QuanLyTuyenSinh\\ThiSinhKhoiB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T00:55:19.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThiSinhKhoiA.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyTuyenSinh\\QuanLyTuyenSinh\\ThiSinhKhoiA.cs",
+              "RelativeDocumentMoniker": "QuanLyTuyenSinh\\ThiSinhKhoiA.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyTuyenSinh\\QuanLyTuyenSinh\\ThiSinhKhoiA.cs",
+              "RelativeToolTip": "QuanLyTuyenSinh\\ThiSinhKhoiA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T00:55:14.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QLTS.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyTuyenSinh\\QuanLyTuyenSinh\\QLTS.cs",
+              "RelativeDocumentMoniker": "QuanLyTuyenSinh\\QLTS.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyTuyenSinh\\QuanLyTuyenSinh\\QLTS.cs",
+              "RelativeToolTip": "QuanLyTuyenSinh\\QLTS.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T00:49:35.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThiSinh.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyTuyenSinh\\QuanLyTuyenSinh\\ThiSinh.cs",
+              "RelativeDocumentMoniker": "QuanLyTuyenSinh\\ThiSinh.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyTuyenSinh\\QuanLyTuyenSinh\\ThiSinh.cs",
+              "RelativeToolTip": "QuanLyTuyenSinh\\ThiSinh.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAiwEgAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T00:55:08.475Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

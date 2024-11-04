@@ -54,7 +54,8 @@ namespace QuanLySach
                                 qLS.TimTapChi(); break;
                             case 3:
                                 qLS.TimBao(); break;
-                        }   break;
+                        }   
+                        break;
                     case 3:
                         qLS.Output(); break;
                     case 4:
@@ -66,7 +67,7 @@ namespace QuanLySach
                             Console.WriteLine("Mã tài liệu không tồn tại.");
                         break;
                     case 5:
-                        Console.WriteLine("Thoát chương trình."); return;
+                        return;
                     default:
                         Console.WriteLine("Lựa chọn không hợp lệ."); break;
                 }

@@ -22,8 +22,29 @@ namespace QuanLySach
             this.ThangPhatHanh = thangPhatHanh;
         }
 
-        public string SoPhatHanh { get => soPhatHanh; set => soPhatHanh = value; }
-        public int ThangPhatHanh { get => thangPhatHanh; set => thangPhatHanh = value; }
+        public string SoPhatHanh 
+        { 
+            get => soPhatHanh; 
+            set
+            {
+                if (!string.IsNullOrWhiteSpace(value))
+                    SoPhatHanh = value.Trim();
+                else
+                    throw new ArgumentException("Số phát hành không được để trống.");
+            }
+        }
+
+        public int ThangPhatHanh 
+        { 
+            get => thangPhatHanh; 
+            set
+            {
+                if (value > 0 && value <= 12)
+                    thangPhatHanh = value;
+                else
+                    throw new ArgumentException("Tháng phát hành là số dương.");
+            }
+        }
 
         public override void Nhap()
         {
@@ -34,8 +55,16 @@ namespace QuanLySach
             Console.Write("Nhập số phát hành: ");
             SoPhatHanh = Console.ReadLine();
 
-            Console.Write("Nhập tháng phát hành: ");
-            ThangPhatHanh = int.Parse(Console.ReadLine());
+            while (true)
+            { 
+                Console.Write("Nhập tháng phát hành: "); 
+                if (int.TryParse(Console.ReadLine(), out int thangPhatHanh) && thangPhatHanh > 0 && thangPhatHanh <= 12)
+                {
+                    ThangPhatHanh = thangPhatHanh;
+                    break;
+                }
+                Console.WriteLine("Tháng phát hành là số dương.");
+            }
         }
 
         public override void Xuat()

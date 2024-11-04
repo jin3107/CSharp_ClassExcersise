@@ -24,9 +24,41 @@ namespace QuanLySach
             this.SoBanPhatHanh = soBanPhatHanh;
         }
 
-        public string MaTaiLieu { get => maTaiLieu; set => maTaiLieu = value; }
-        public string TenNhaXuatBan { get => tenNhaXuatBan; set => tenNhaXuatBan = value; }
-        public int SoBanPhatHanh { get => soBanPhatHanh; set => soBanPhatHanh = value; }
+        public string MaTaiLieu 
+        { 
+            get => maTaiLieu; 
+            set
+            {
+                if (!string.IsNullOrWhiteSpace(value))
+                    maTaiLieu = value.Trim();
+                else
+                    throw new ArgumentException("Mã tài liệu không được để trống.");
+            }
+        }
+
+        public string TenNhaXuatBan 
+        {
+            get => tenNhaXuatBan; 
+            set
+            {
+                if (!string.IsNullOrWhiteSpace(value))
+                    tenNhaXuatBan = value.Trim();
+                else
+                    throw new ArgumentException("Tên nhà xuất bản không được để trống.");
+            }
+        }
+
+        public int SoBanPhatHanh 
+        { 
+            get => soBanPhatHanh;
+            set
+            {
+                if (value > 0)
+                    soBanPhatHanh = value;
+                else
+                    throw new ArgumentException("Số bản phát hành là số dương và lớn hơn 0.");
+            }
+        }
 
         public virtual void Nhap()
         {
@@ -39,8 +71,16 @@ namespace QuanLySach
             Console.Write("Nhập tên nhà xuất bản: ");
             TenNhaXuatBan = Console.ReadLine();
 
-            Console.Write("Nhập số bản phát hành: ");
-            SoBanPhatHanh = int.Parse(Console.ReadLine());
+            while (true)
+            {
+                Console.Write("Nhập số bản phát hành: ");
+                if (int.TryParse(Console.ReadLine(), out int soBanPhatHanh) && soBanPhatHanh > 0)
+                {
+                    SoBanPhatHanh = soBanPhatHanh;
+                    break;
+                }
+                Console.WriteLine("Số bản phát hành là số dương và lớn hơn 0.");
+            }
         }
 
         public virtual void Xuat()
