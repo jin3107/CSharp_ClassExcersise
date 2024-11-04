@@ -1,11 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.ConstrainedExecution;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace QuanLyCuaHang_DeA
+namespace QuanLyCuaHang_DeB
 {
     internal class MatHang
     {
@@ -13,47 +12,43 @@ namespace QuanLyCuaHang_DeA
         private string tenHang;
         private int soLuong;
         private int donGia;
-        private int thanhTien;
 
-        public MatHang()
-        {
-        }
+        public MatHang() { }
 
-        public MatHang(int maHang, string tenHang, int soLuong, int donGia, int thanhTien)
+        public MatHang(int maHang, string tenHang, int soLuong, int donGia)
         {
             this.MaHang = maHang;
             this.TenHang = tenHang;
             this.SoLuong = soLuong;
             this.DonGia = donGia;
-            this.ThanhTien = thanhTien;
         }
 
-        public int MaHang 
-        { 
-            get => maHang; 
-            set => maHang = value; 
-        }
-
-        public string TenHang 
+        public int MaHang
         {
-            get => tenHang; 
-            set => tenHang = value; 
+            get => maHang;
+            set => maHang = value;
         }
 
-        public int SoLuong 
-        { 
-            get => soLuong; 
-            set => soLuong = value; 
+        public string TenHang
+        {
+            get => tenHang;
+            set => tenHang = value;
         }
 
-        public int DonGia 
-        { 
-            get => donGia; 
-            set => donGia = value; 
+        public int SoLuong
+        {
+            get => soLuong;
+            set => soLuong = value;
         }
 
-        public int ThanhTien 
-        { 
+        public int DonGia
+        {
+            get => donGia;
+            set => donGia = value;
+        }
+
+        public int ThanhTien
+        {
             get => SoLuong * DonGia;
         }
 
@@ -84,10 +79,9 @@ namespace QuanLyCuaHang_DeA
             }
         }
 
-        public void Xuat(int stt)
+        public override string ToString()
         {
-            Console.OutputEncoding = Encoding.UTF8;
-            Console.WriteLine($"{stt,-5} {MaHang,-10} {TenHang,-15} {SoLuong,-10} {DonGia,-10} {ThanhTien,-10}");
+            return $"{MaHang,-10} {TenHang,-15} {SoLuong,-10} {DonGia,-10} {ThanhTien,-10}";
         }
     }
 }
