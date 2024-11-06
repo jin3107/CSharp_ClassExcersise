@@ -19,7 +19,11 @@ namespace QuanLyCuaHang_DeB
             this.DanhSachHoaDon = danhSachHoaDon;
         }
 
-        internal List<HoaDon> DanhSachHoaDon { get => danhSachHoaDon; set => danhSachHoaDon = value; }
+        internal List<HoaDon> DanhSachHoaDon 
+        { 
+            get => danhSachHoaDon; 
+            set => danhSachHoaDon = value; 
+        }
 
         public void Nhap()
         {

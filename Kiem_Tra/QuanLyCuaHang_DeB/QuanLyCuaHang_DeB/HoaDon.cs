@@ -11,8 +11,23 @@ namespace QuanLyCuaHang_DeB
         private List<MatHang> danhSachMatHang = new List<MatHang>();
         private int soHoaDon;
 
-        internal List<MatHang> DanhSachMatHang { get => danhSachMatHang; set => danhSachMatHang = value; }
-        public int SoHoaDon { get => soHoaDon; set => soHoaDon = value; }
+        internal List<MatHang> DanhSachMatHang 
+        { 
+            get => danhSachMatHang; 
+            set => danhSachMatHang = value; 
+        }
+
+        public int SoHoaDon 
+        { 
+            get => soHoaDon; 
+            set
+            {
+                if (value > 0)
+                    soHoaDon = value;
+                else
+                    throw new ArgumentException("Số hóa đơn là số dương.");
+            }
+        }
 
         public HoaDon(List<MatHang> danhSachMatHang, int soHoaDon)
         {

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.CodeDom;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.ConstrainedExecution;
@@ -25,31 +26,54 @@ namespace QuanLyCuaHang_DeA
             this.TenHang = tenHang;
             this.SoLuong = soLuong;
             this.DonGia = donGia;
-            this.ThanhTien = thanhTien;
         }
 
         public int MaHang 
         { 
             get => maHang; 
-            set => maHang = value; 
+            set
+            {
+                if (value > 0)
+                    maHang = value;
+                else
+                    throw new ArgumentException("Mã hàng là số dương.");
+            }
         }
 
         public string TenHang 
         {
             get => tenHang; 
-            set => tenHang = value; 
+            set
+            {
+                if (!string.IsNullOrWhiteSpace(value))
+                    tenHang = value.Trim();
+                else
+                    throw new ArgumentException("Tên hàng không được để trống.");
+            }
         }
 
         public int SoLuong 
         { 
-            get => soLuong; 
-            set => soLuong = value; 
+            get => soLuong;
+            set
+            {
+                if (value > 0)
+                    soLuong = value;
+                else
+                    throw new ArgumentException("Số lượng là số dương.");
+            }
         }
 
         public int DonGia 
         { 
             get => donGia; 
-            set => donGia = value; 
+            set
+            {
+                if (value > 0)
+                    donGia = value;
+                else
+                    throw new ArgumentException("Đơn giá là số dương.");
+            }
         }
 
         public int ThanhTien 

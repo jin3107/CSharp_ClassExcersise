@@ -26,25 +26,49 @@ namespace QuanLyCuaHang_DeB
         public int MaHang
         {
             get => maHang;
-            set => maHang = value;
+            set
+            {
+                if (value > 0)
+                    maHang = value;
+                else
+                    throw new ArgumentException("Mã hàng số dương.");
+            }
         }
 
         public string TenHang
         {
             get => tenHang;
-            set => tenHang = value;
+            set
+            {
+                if (!string.IsNullOrWhiteSpace(value))
+                    tenHang = value.Trim();
+                else
+                    throw new ArgumentException("Tên hàng không được để trống.");
+            }
         }
 
         public int SoLuong
         {
             get => soLuong;
-            set => soLuong = value;
+            set
+            {
+                if (value > 0)
+                    soLuong = value;
+                else
+                    throw new ArgumentException("Số lượng là số dương.");
+            }
         }
 
         public int DonGia
         {
             get => donGia;
-            set => donGia = value;
+            set
+            {
+                if (value > 0) 
+                    donGia = value;
+                else
+                    throw new ArgumentException("Đơn giá là số dương.");
+            }
         }
 
         public int ThanhTien
