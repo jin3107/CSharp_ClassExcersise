@@ -22,7 +22,7 @@ namespace QuanLyKhachSan
             set
             {
                 if (!string.IsNullOrWhiteSpace(value))
-                    loaiPhong = value.Trim(); // Sử dụng biến thành viên thay vì gọi thuộc tính
+                    loaiPhong = value.Trim(); 
                 else
                     throw new ArgumentException("Loại phòng không được để trống.");
             }

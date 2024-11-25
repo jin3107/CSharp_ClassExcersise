@@ -26,7 +26,6 @@ namespace QuanLyKhachSan
                 switch (choice)
                 {
                     case "1":
-                        // Thêm khách
                         Nguoi nguoiMoi = new Nguoi();
                         nguoiMoi.Nhap();
                         khachSan.Them(nguoiMoi);
@@ -34,7 +33,6 @@ namespace QuanLyKhachSan
                         break;
 
                     case "2":
-                        // Xóa khách
                         Console.Write("\nNhập CMND của khách cần xóa: ");
                         string cmndXoa = Console.ReadLine();
                         khachSan.Xoa(cmndXoa);
@@ -42,7 +40,6 @@ namespace QuanLyKhachSan
                         break;
 
                     case "3":
-                        // Tính tiền
                         Console.Write("\nNhập CMND của khách cần tính tiền: ");
                         string cmndTinhTien = Console.ReadLine();
                         int tien = khachSan.TinhTien(cmndTinhTien);
@@ -53,7 +50,6 @@ namespace QuanLyKhachSan
                         break;
 
                     case "4":
-                        // Hiển thị danh sách khách
                         Console.WriteLine("\n\t--- Danh sách khách thuê ---");
                         foreach (var nguoi in khachSan.DanhSachNguoi)
                         {
@@ -62,7 +58,6 @@ namespace QuanLyKhachSan
                         break;
 
                     case "5":
-                        // Thoát chương trình
                         Console.WriteLine("Cảm ơn đã sử dụng chương trình!");
                         return;
 

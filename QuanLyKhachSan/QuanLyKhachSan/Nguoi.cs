@@ -8,8 +8,8 @@ namespace QuanLyKhachSan
         private string hoTen;
         private int tuoi;
         private string cmnd;
-        private Phong phongThue; // Thông tin phòng thuê
-        private int soNgayThue;  // Số ngày thuê phòng
+        private Phong phongThue;
+        private int soNgayThue;
 
         public Nguoi(string hoTen, int tuoi, string cmnd, Phong phongThue, int soNgayThue)
         {
@@ -76,7 +76,6 @@ namespace QuanLyKhachSan
             }
         }
 
-        // Nhập thông tin khách
         public void Nhap()
         {
             Console.InputEncoding = Encoding.UTF8;
@@ -128,7 +127,6 @@ namespace QuanLyKhachSan
             }
         }
 
-        // Hiển thị thông tin khách
         public void Xuat()
         {
             Console.OutputEncoding = Encoding.UTF8;
