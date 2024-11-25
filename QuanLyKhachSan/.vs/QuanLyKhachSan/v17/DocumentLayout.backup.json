@@ -42,7 +42,8 @@
               "RelativeToolTip": "QuanLyKhachSan\\Phong.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T08:24:54.702Z"
+              "WhenOpened": "2024-10-30T08:24:54.702Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -52,7 +53,7 @@
               "RelativeDocumentMoniker": "QuanLyKhachSan\\Nguoi.cs",
               "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyKhachSan\\QuanLyKhachSan\\Nguoi.cs",
               "RelativeToolTip": "QuanLyKhachSan\\Nguoi.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAmwCUAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAuwCUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-30T08:10:04.595Z",
               "EditorCaption": ""
@@ -67,7 +68,8 @@
               "RelativeToolTip": "QuanLyKhachSan\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T08:08:37.959Z"
+              "WhenOpened": "2024-10-30T08:08:37.959Z",
+              "EditorCaption": ""
             }
           ]
         }
