@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyKhachSan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5C6867D5-19EF-4E8D-A90E-C7791AAE8339}|QuanLyKhachSan\\QuanLyKhachSan.csproj|d:\\my project\\it\\visual studio 2022\\c#_oop\\exercise_in_class\\quanlykhachsan\\quanlykhachsan\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C6867D5-19EF-4E8D-A90E-C7791AAE8339}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C6867D5-19EF-4E8D-A90E-C7791AAE8339}|QuanLyKhachSan\\QuanLyKhachSan.csproj|D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyKhachSan\\quanlykhachsan\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C6867D5-19EF-4E8D-A90E-C7791AAE8339}|QuanLyKhachSan\\QuanLyKhachSan.csproj|d:\\my project\\it\\visual studio 2022\\c#_oop\\exercise_in_class\\quanlykhachsan\\quanlykhachsan\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C6867D5-19EF-4E8D-A90E-C7791AAE8339}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\phong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C6867D5-19EF-4E8D-A90E-C7791AAE8339}|QuanLyKhachSan\\QuanLyKhachSan.csproj|D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyKhachSan\\quanlykhachsan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5C6867D5-19EF-4E8D-A90E-C7791AAE8339}|QuanLyKhachSan\\QuanLyKhachSan.csproj|d:\\my project\\it\\visual studio 2022\\c#_oop\\exercise_in_class\\quanlykhachsan\\quanlykhachsan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5C6867D5-19EF-4E8D-A90E-C7791AAE8339}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6867D5-19EF-4E8D-A90E-C7791AAE8339}|QuanLyKhachSan\\QuanLyKhachSan.csproj|d:\\my project\\it\\visual studio 2022\\c#_oop\\exercise_in_class\\quanlykhachsan\\quanlykhachsan\\khachsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6867D5-19EF-4E8D-A90E-C7791AAE8339}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\khachsan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C6867D5-19EF-4E8D-A90E-C7791AAE8339}|QuanLyKhachSan\\QuanLyKhachSan.csproj|d:\\my project\\it\\visual studio 2022\\c#_oop\\exercise_in_class\\quanlykhachsan\\quanlykhachsan\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C6867D5-19EF-4E8D-A90E-C7791AAE8339}|QuanLyKhachSan\\QuanLyKhachSan.csproj|solutionrelative:quanlykhachsan\\nguoi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Phong.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyKhachSan\\QuanLyKhachSan\\Phong.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Phong.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyKhachSan\\QuanLyKhachSan\\Phong.cs*",
+              "RelativeToolTip": "QuanLyKhachSan\\Phong.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAADwv0cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:52:23.553Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -35,40 +52,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Phong.cs",
-              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyKhachSan\\QuanLyKhachSan\\Phong.cs",
-              "RelativeDocumentMoniker": "QuanLyKhachSan\\Phong.cs",
-              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyKhachSan\\QuanLyKhachSan\\Phong.cs",
-              "RelativeToolTip": "QuanLyKhachSan\\Phong.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T08:24:54.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Nguoi.cs",
-              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyKhachSan\\QuanLyKhachSan\\Nguoi.cs",
-              "RelativeDocumentMoniker": "QuanLyKhachSan\\Nguoi.cs",
-              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyKhachSan\\QuanLyKhachSan\\Nguoi.cs",
-              "RelativeToolTip": "QuanLyKhachSan\\Nguoi.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAuwCUAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T08:10:04.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyKhachSan\\QuanLyKhachSan\\Program.cs",
               "RelativeDocumentMoniker": "QuanLyKhachSan\\Program.cs",
               "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyKhachSan\\QuanLyKhachSan\\Program.cs",
               "RelativeToolTip": "QuanLyKhachSan\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwv00AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T08:08:37.959Z",
+              "WhenOpened": "2024-11-25T06:42:27.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nguoi.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyKhachSan\\QuanLyKhachSan\\Nguoi.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\Nguoi.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyKhachSan\\QuanLyKhachSan\\Nguoi.cs",
+              "RelativeToolTip": "QuanLyKhachSan\\Nguoi.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAHcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:34:33.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KhachSan.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyKhachSan\\QuanLyKhachSan\\KhachSan.cs",
+              "RelativeDocumentMoniker": "QuanLyKhachSan\\KhachSan.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyKhachSan\\QuanLyKhachSan\\KhachSan.cs",
+              "RelativeToolTip": "QuanLyKhachSan\\KhachSan.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwB8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:28:54.091Z",
               "EditorCaption": ""
             }
           ]

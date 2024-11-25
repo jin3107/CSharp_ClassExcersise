@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace QuanLyKhachSan
 {
@@ -19,21 +16,21 @@ namespace QuanLyKhachSan
             this.GiaPhong = giaPhong;
         }
 
-        public string LoaiPhong 
-        { 
-            get => loaiPhong; 
+        public string LoaiPhong
+        {
+            get => loaiPhong;
             set
             {
                 if (!string.IsNullOrWhiteSpace(value))
-                    LoaiPhong = value.Trim();
+                    loaiPhong = value.Trim(); // Sử dụng biến thành viên thay vì gọi thuộc tính
                 else
                     throw new ArgumentException("Loại phòng không được để trống.");
             }
         }
 
-        public int GiaPhong 
-        { 
-            get => giaPhong; 
+        public int GiaPhong
+        {
+            get => giaPhong;
             set
             {
                 if (value > 1)
@@ -41,6 +38,34 @@ namespace QuanLyKhachSan
                 else
                     throw new ArgumentException("Giá phòng là số dương và lớn hơn 0.");
             }
+        }
+
+        public Phong(string loai)
+        {
+            Console.OutputEncoding = Encoding.UTF8;
+
+            switch (loai)
+            {
+                case "A":
+                    LoaiPhong = "A";
+                    GiaPhong = 500;
+                    break;
+                case "B":
+                    LoaiPhong = "B";
+                    GiaPhong = 300;
+                    break;
+                case "C":
+                    LoaiPhong = "C";
+                    GiaPhong = 100;
+                    break;
+                default:
+                    throw new ArgumentException("Loại phòng không hợp lệ.");
+            }
+        }
+
+        public override string ToString()
+        {
+            return $"Phong {{ LoaiPhong = {LoaiPhong}, GiaPhong = {GiaPhong} }}";
         }
     }
 }
