@@ -6,17 +6,13 @@ using System.Threading.Tasks;
 
 namespace QuanLyTuyenSinh
 {
-    internal class ThiSinhKhoiB : ThiSinh
+    public class ThiSinhKhoiB : ThiSinh
     {
-        private static string MON_TOAN = "Toán";
-        private static string MON_HOA = "Hóa";
-        private static string MON_SINH = "Sinh";
+        public static string MON_TOAN = "Toán";
+        public static string MON_HOA = "Hóa";
+        public static string MON_SINH = "Sinh";
 
         public ThiSinhKhoiB() { }
-
-        public ThiSinhKhoiB(string soBaoDanh, string hoTen, string diaChi, int mucUuTien) : base(soBaoDanh, hoTen, diaChi, mucUuTien)
-        {
-        }
 
         public override void Nhap()
         {

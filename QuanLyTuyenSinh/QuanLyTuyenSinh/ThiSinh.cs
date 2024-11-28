@@ -6,46 +6,14 @@ using System.Threading.Tasks;
 
 namespace QuanLyTuyenSinh
 {
-    internal class ThiSinh
+    public class ThiSinh
     {
-        private string soBaoDanh;
-        private string hoTen;
-        private string diaChi;
-        private int mucUuTien;
+        public string SoBaoDanh { get; set; }
+        public string HoTen { get; set; }
+        public string DiaChi { get; set; }
+        public int MucUuTien { get; set; }
 
         public ThiSinh() { }
-
-        public ThiSinh(string soBaoDanh, string hoTen, string diaChi, int mucUuTien)
-        {
-            this.SoBaoDanh = soBaoDanh;
-            this.HoTen = hoTen;
-            this.DiaChi = diaChi;
-            this.MucUuTien = mucUuTien;
-        }
-
-        public string SoBaoDanh 
-        { 
-            get => soBaoDanh; 
-            set => soBaoDanh = value; 
-        }
-
-        public string HoTen 
-        { 
-            get => hoTen; 
-            set => hoTen = value; 
-        }
-
-        public string DiaChi 
-        { 
-            get => diaChi; 
-            set => diaChi = value; 
-        }
-
-        public int MucUuTien 
-        { 
-            get => mucUuTien;
-            set => mucUuTien = value; 
-        }
 
         public virtual void Nhap()
         {

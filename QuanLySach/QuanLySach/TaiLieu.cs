@@ -6,59 +6,13 @@ using System.Threading.Tasks;
 
 namespace QuanLySach
 {
-    internal class TaiLieu
+    public class TaiLieu
     {
-        private string maTaiLieu;
-        private string tenNhaXuatBan;
-        private int soBanPhatHanh;
+        public string MaTaiLieu { get; set; }
+        public string TenNhaXuatBan { get; set; }
+        public int SoBanPhatHanh { get; set; }
 
-        public TaiLieu()
-        {
-            
-        }
-
-        public TaiLieu(string maTaiLieu, string tenNhaXuatBan, int soBanPhatHanh)
-        {
-            this.MaTaiLieu = maTaiLieu;
-            this.TenNhaXuatBan = tenNhaXuatBan;
-            this.SoBanPhatHanh = soBanPhatHanh;
-        }
-
-        public string MaTaiLieu 
-        { 
-            get => maTaiLieu; 
-            set
-            {
-                if (!string.IsNullOrWhiteSpace(value))
-                    maTaiLieu = value.Trim();
-                else
-                    throw new ArgumentException("Mã tài liệu không được để trống.");
-            }
-        }
-
-        public string TenNhaXuatBan 
-        {
-            get => tenNhaXuatBan; 
-            set
-            {
-                if (!string.IsNullOrWhiteSpace(value))
-                    tenNhaXuatBan = value.Trim();
-                else
-                    throw new ArgumentException("Tên nhà xuất bản không được để trống.");
-            }
-        }
-
-        public int SoBanPhatHanh 
-        { 
-            get => soBanPhatHanh;
-            set
-            {
-                if (value > 0)
-                    soBanPhatHanh = value;
-                else
-                    throw new ArgumentException("Số bản phát hành là số dương và lớn hơn 0.");
-            }
-        }
+        public TaiLieu() { }
 
         public virtual void Nhap()
         {

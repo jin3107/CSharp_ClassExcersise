@@ -6,23 +6,12 @@ using System.Threading.Tasks;
 
 namespace QuanLyNhanVien_Modern.ThucThe
 {
-    internal class KinhNghiem : NhanVien
+    public class KinhNghiem : NhanVien
     {
-        private int soNamKinhNghiem;
-        private string kyNangChuyenMon;
+        public int SoNamKinhNghiem { get; set; }
+        public string KyNangChuyenMon { get; set; }
 
-        public KinhNghiem()
-        {
-        }
-
-        public KinhNghiem(int soNamKinhNghiem, string kyNangChuyenMon)
-        {
-            this.SoNamKinhNghiem = soNamKinhNghiem;
-            this.KyNangChuyenMon = kyNangChuyenMon;
-        }
-
-        public int SoNamKinhNghiem { get => soNamKinhNghiem; set => soNamKinhNghiem = value; }
-        public string KyNangChuyenMon { get => kyNangChuyenMon; set => kyNangChuyenMon = value; }
+        public KinhNghiem() { }
 
         public override void HienThiThongTin()
         {

@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLySach\\",
+  "WorkspaceRootPath": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\QuanLySach\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{423C3195-7E48-4910-AAC0-48CE848A3B2D}|QuanLySach\\QuanLySach.csproj|d:\\my project\\it\\visual studio 2022\\c#_oop\\exercise_in_class\\quanlysach\\quanlysach\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{423C3195-7E48-4910-AAC0-48CE848A3B2D}|QuanLySach\\QuanLySach.csproj|solutionrelative:quanlysach\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{423C3195-7E48-4910-AAC0-48CE848A3B2D}|QuanLySach\\QuanLySach.csproj|d:\\my project\\it\\visual studio 2022\\c#_oop\\exercise_in_class\\quanlysach\\quanlysach\\tailieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{423C3195-7E48-4910-AAC0-48CE848A3B2D}|QuanLySach\\QuanLySach.csproj|solutionrelative:quanlysach\\tailieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{423C3195-7E48-4910-AAC0-48CE848A3B2D}|QuanLySach\\QuanLySach.csproj|d:\\my project\\it\\visual studio 2022\\c#_oop\\exercise_in_class\\quanlysach\\quanlysach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{423C3195-7E48-4910-AAC0-48CE848A3B2D}|QuanLySach\\QuanLySach.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\quanlysach\\quanlysach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{423C3195-7E48-4910-AAC0-48CE848A3B2D}|QuanLySach\\QuanLySach.csproj|solutionrelative:quanlysach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423C3195-7E48-4910-AAC0-48CE848A3B2D}|QuanLySach\\QuanLySach.csproj|d:\\my project\\it\\visual studio 2022\\c#_oop\\exercise_in_class\\quanlysach\\quanlysach\\qls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{423C3195-7E48-4910-AAC0-48CE848A3B2D}|QuanLySach\\QuanLySach.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\quanlysach\\quanlysach\\qls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{423C3195-7E48-4910-AAC0-48CE848A3B2D}|QuanLySach\\QuanLySach.csproj|solutionrelative:quanlysach\\qls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423C3195-7E48-4910-AAC0-48CE848A3B2D}|QuanLySach\\QuanLySach.csproj|d:\\my project\\it\\visual studio 2022\\c#_oop\\exercise_in_class\\quanlysach\\quanlysach\\tapchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{423C3195-7E48-4910-AAC0-48CE848A3B2D}|QuanLySach\\QuanLySach.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\quanlysach\\quanlysach\\bao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423C3195-7E48-4910-AAC0-48CE848A3B2D}|QuanLySach\\QuanLySach.csproj|solutionrelative:quanlysach\\bao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423C3195-7E48-4910-AAC0-48CE848A3B2D}|QuanLySach\\QuanLySach.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\quanlysach\\quanlysach\\tapchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{423C3195-7E48-4910-AAC0-48CE848A3B2D}|QuanLySach\\QuanLySach.csproj|solutionrelative:quanlysach\\tapchi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{423C3195-7E48-4910-AAC0-48CE848A3B2D}|QuanLySach\\QuanLySach.csproj|d:\\my project\\it\\visual studio 2022\\c#_oop\\exercise_in_class\\quanlysach\\quanlysach\\bao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{423C3195-7E48-4910-AAC0-48CE848A3B2D}|QuanLySach\\QuanLySach.csproj|solutionrelative:quanlysach\\bao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{423C3195-7E48-4910-AAC0-48CE848A3B2D}|QuanLySach\\QuanLySach.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\quanlysach\\quanlysach\\tailieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423C3195-7E48-4910-AAC0-48CE848A3B2D}|QuanLySach\\QuanLySach.csproj|solutionrelative:quanlysach\\tailieu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423C3195-7E48-4910-AAC0-48CE848A3B2D}|QuanLySach\\QuanLySach.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\quanlysach\\quanlysach\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423C3195-7E48-4910-AAC0-48CE848A3B2D}|QuanLySach\\QuanLySach.csproj|solutionrelative:quanlysach\\sach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -45,85 +45,81 @@
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\QuanLySach\\QuanLySach\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLySach\\Program.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\QuanLySach\\QuanLySach\\Program.cs",
+              "RelativeToolTip": "QuanLySach\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:24:51.034Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TaiLieu.cs",
-              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLySach\\QuanLySach\\TaiLieu.cs",
-              "RelativeDocumentMoniker": "QuanLySach\\TaiLieu.cs",
-              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLySach\\QuanLySach\\TaiLieu.cs",
-              "RelativeToolTip": "QuanLySach\\TaiLieu.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAowDMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T15:46:55.931Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Bao.cs",
-              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLySach\\QuanLySach\\Bao.cs",
-              "RelativeDocumentMoniker": "QuanLySach\\Bao.cs",
-              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLySach\\QuanLySach\\Bao.cs",
-              "RelativeToolTip": "QuanLySach\\Bao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T15:32:32.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TapChi.cs",
-              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLySach\\QuanLySach\\TapChi.cs",
-              "RelativeDocumentMoniker": "QuanLySach\\TapChi.cs",
-              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLySach\\QuanLySach\\TapChi.cs",
-              "RelativeToolTip": "QuanLySach\\TapChi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T15:32:26.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Sach.cs",
-              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLySach\\QuanLySach\\Sach.cs",
-              "RelativeDocumentMoniker": "QuanLySach\\Sach.cs",
-              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLySach\\QuanLySach\\Sach.cs",
-              "RelativeToolTip": "QuanLySach\\Sach.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAzwCkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T15:32:19.242Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "QLS.cs",
-              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLySach\\QuanLySach\\QLS.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\QuanLySach\\QuanLySach\\QLS.cs",
               "RelativeDocumentMoniker": "QuanLySach\\QLS.cs",
-              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLySach\\QuanLySach\\QLS.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\QuanLySach\\QuanLySach\\QLS.cs",
               "RelativeToolTip": "QuanLySach\\QLS.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAAAFMAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T14:44:46.613Z",
+              "WhenOpened": "2024-11-28T13:24:32.004Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLySach\\QuanLySach\\Program.cs",
-              "RelativeDocumentMoniker": "QuanLySach\\Program.cs",
-              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLySach\\QuanLySach\\Program.cs",
-              "RelativeToolTip": "QuanLySach\\Program.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAAACcAAAAzAAAAAAAAAA==",
+              "Title": "Bao.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\QuanLySach\\QuanLySach\\Bao.cs",
+              "RelativeDocumentMoniker": "QuanLySach\\Bao.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\QuanLySach\\QuanLySach\\Bao.cs",
+              "RelativeToolTip": "QuanLySach\\Bao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-03T14:26:06.721Z",
+              "WhenOpened": "2024-11-28T13:24:18.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TapChi.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\QuanLySach\\QuanLySach\\TapChi.cs",
+              "RelativeDocumentMoniker": "QuanLySach\\TapChi.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\QuanLySach\\QuanLySach\\TapChi.cs",
+              "RelativeToolTip": "QuanLySach\\TapChi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:23:58.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaiLieu.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\QuanLySach\\QuanLySach\\TaiLieu.cs",
+              "RelativeDocumentMoniker": "QuanLySach\\TaiLieu.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\QuanLySach\\QuanLySach\\TaiLieu.cs",
+              "RelativeToolTip": "QuanLySach\\TaiLieu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:18:05.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sach.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\QuanLySach\\QuanLySach\\Sach.cs",
+              "RelativeDocumentMoniker": "QuanLySach\\Sach.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\QuanLySach\\QuanLySach\\Sach.cs",
+              "RelativeToolTip": "QuanLySach\\Sach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:17:38.275Z",
               "EditorCaption": ""
             }
           ]

@@ -6,26 +6,13 @@ using System.Threading.Tasks;
 
 namespace QuanLyNhanVien_Modern.ThucThe
 {
-    internal class TotNghiep : NhanVien
+    public class TotNghiep : NhanVien
     {
-        private DateTime ngayTotNghiep;
-        private string xepLoaiTotNghiep;
-        private string tenTruongDaiHoc;
+        public DateTime NgayTotNghiep { get; set; }
+        public string XepLoaiTotNghiep { get; set; }
+        public string TenTruongDaiHoc { get; set; }
 
-        public TotNghiep()
-        {
-        }
-
-        public TotNghiep(DateTime ngayTotNghiep, string xepLoaiTotNghiep, string tenTruongDaiHoc)
-        {
-            this.NgayTotNghiep = ngayTotNghiep;
-            this.XepLoaiTotNghiep = xepLoaiTotNghiep;
-            this.TenTruongDaiHoc = tenTruongDaiHoc;
-        }
-
-        public DateTime NgayTotNghiep { get => ngayTotNghiep; set => ngayTotNghiep = value; }
-        public string XepLoaiTotNghiep { get => xepLoaiTotNghiep; set => xepLoaiTotNghiep = value; }
-        public string TenTruongDaiHoc { get => tenTruongDaiHoc; set => tenTruongDaiHoc = value; }
+        public TotNghiep() { }
 
         public override void HienThiThongTin()
         {

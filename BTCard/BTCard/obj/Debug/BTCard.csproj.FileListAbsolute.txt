@@ -1,7 +1,0 @@
-D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\BTCard\BTCard\bin\Debug\BTCard.exe.config
-D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\BTCard\BTCard\bin\Debug\BTCard.exe
-D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\BTCard\BTCard\bin\Debug\BTCard.pdb
-D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\BTCard\BTCard\obj\Debug\BTCard.csproj.AssemblyReference.cache
-D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\BTCard\BTCard\obj\Debug\BTCard.csproj.CoreCompileInputs.cache
-D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\BTCard\BTCard\obj\Debug\BTCard.exe
-D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\BTCard\BTCard\obj\Debug\BTCard.pdb

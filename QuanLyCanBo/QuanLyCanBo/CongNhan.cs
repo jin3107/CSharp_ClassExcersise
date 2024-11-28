@@ -6,28 +6,11 @@ using System.Threading.Tasks;
 
 namespace QuanLyCanBo
 {
-    internal class CongNhan : CanBo
+    public class CongNhan : CanBo
     {
-        private int bac;
+        public int Bac { get; set; }
 
         public CongNhan() { }
-
-        public CongNhan(string ten, int tuoi, string gioiTinh, string diaChi, int bac) : base(ten, tuoi, gioiTinh, diaChi)
-        {
-            this.Bac = bac;
-        }
-
-        public int Bac 
-        { 
-            get => bac;
-            set
-            {
-                if (value >= 0)
-                    bac = value;
-                else
-                    throw new ArgumentException("Bậc là số dương.");
-            }
-        }
 
         public override void Nhap()
         {
@@ -38,7 +21,7 @@ namespace QuanLyCanBo
             while (true)
             {
                 Console.Write("Nhập bậc: ");
-                if (int.TryParse(Console.ReadLine(), out bac) && bac >= 0)
+                if (int.TryParse(Console.ReadLine(), out int bac) && bac >= 0)
                 {
                     Bac = bac;
                     break;

@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace QuanLySach
 {
-    internal class QLS
+    public class QLS
     {
-        private List<TaiLieu> danhSachSach = new List<TaiLieu>();
+        public List<TaiLieu> DanhSachSach { get; set; } = new List<TaiLieu>();
 
         public void Input()
         {
@@ -49,7 +49,7 @@ namespace QuanLySach
             try
             {
                 taiLieu.Nhap();
-                danhSachSach.Add(taiLieu);
+                DanhSachSach.Add(taiLieu);
             }
             catch (Exception ex)
             {
@@ -62,14 +62,14 @@ namespace QuanLySach
             Console.InputEncoding = Encoding.UTF8;
             Console.OutputEncoding = Encoding.UTF8;
 
-            if (danhSachSach.Count == 0)
+            if (DanhSachSach.Count == 0)
             {
                 Console.WriteLine("\nKhông có Tài liệu nào trong danh sách.");
                 return;
             }
 
             Console.WriteLine("\n--- Thông tin Tài liệu ---");
-            foreach (var taiLieu in danhSachSach)
+            foreach (var taiLieu in DanhSachSach)
             {
                 taiLieu.Xuat();
             }
@@ -77,26 +77,26 @@ namespace QuanLySach
 
         public bool XoaTaiLieu(string id)
         {
-            var taiLieu = danhSachSach.FirstOrDefault(x => x.MaTaiLieu == id);
+            var taiLieu = DanhSachSach.FirstOrDefault(x => x.MaTaiLieu == id);
             if (taiLieu == null)
                 return false;
-            danhSachSach.Remove(taiLieu);
+            DanhSachSach.Remove(taiLieu);
             return true;
         }
 
         public void TimSach()
         {
-            danhSachSach.OfType<Sach>().ToList().ForEach(x => x.Xuat());
+            DanhSachSach.OfType<Sach>().ToList().ForEach(x => x.Xuat());
         }
 
         public void TimTapChi()
         {
-            danhSachSach.OfType<TapChi>().ToList().ForEach(x => x.Xuat());
+            DanhSachSach.OfType<TapChi>().ToList().ForEach(x => x.Xuat());
         }
 
         public void TimBao()
         {
-            danhSachSach.OfType<Bao>().ToList().ForEach(x => x.Xuat());
+            DanhSachSach.OfType<Bao>().ToList().ForEach(x => x.Xuat());
         }
     }
 }

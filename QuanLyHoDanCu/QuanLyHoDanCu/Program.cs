@@ -3,9 +3,9 @@ using System.Text;
 
 namespace QuanLyHoDanCu
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             KhuPho khuPho = new KhuPho();
 
@@ -40,8 +40,6 @@ namespace QuanLyHoDanCu
                         khuPho.ThemGiaDinh();
                         break;
                     case 4:
-                        Console.WriteLine("\nThoát chương trình ...");
-                        Console.ReadLine();
                         return;
                 }
             }

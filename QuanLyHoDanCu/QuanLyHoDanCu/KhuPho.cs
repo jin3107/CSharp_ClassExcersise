@@ -6,25 +6,11 @@ using System.Threading.Tasks;
 
 namespace QuanLyHoDanCu
 {
-    internal class KhuPho
+    public class KhuPho
     {
-        private List<GiaDinh> khuPhoDanCu;
+        public List<GiaDinh> KhuPhoDanCu { get; set; } = new List<GiaDinh>();
 
-        public KhuPho() 
-        {
-            khuPhoDanCu = new List<GiaDinh>();
-        }
-
-        public KhuPho(List<GiaDinh> khuPhoDanCu)
-        {
-            this.KhuPhoDanCu = khuPhoDanCu;
-        }
-
-        internal List<GiaDinh> KhuPhoDanCu 
-        { 
-            get => khuPhoDanCu; 
-            set => khuPhoDanCu = value; 
-        }
+        public KhuPho() { }
 
         public void Nhap()
         {
@@ -43,7 +29,7 @@ namespace QuanLyHoDanCu
                 Console.WriteLine($"\n--- Nhập thông tin cho gia đình thứ {i + 1} ---");
                 GiaDinh giaDinh = new GiaDinh();
                 giaDinh.Nhap();
-                khuPhoDanCu.Add(giaDinh);
+                KhuPhoDanCu.Add(giaDinh);
             }
         }
 
@@ -53,16 +39,16 @@ namespace QuanLyHoDanCu
             Console.OutputEncoding = Encoding.UTF8;
 
             Console.WriteLine("\n--- Thông tin khu phố ---");
-            if (khuPhoDanCu.Count == 0)
+            if (KhuPhoDanCu.Count == 0)
             {
                 Console.WriteLine("Khu phố hiện không có gia đình nào.");
                 return;
             }
 
-            for (int i = 0; i < khuPhoDanCu.Count; i++)
+            for (int i = 0; i < KhuPhoDanCu.Count; i++)
             {
                 Console.WriteLine($"\n-- Gia đình thứ {i + 1} --");
-                khuPhoDanCu[i].Xuat();
+                KhuPhoDanCu[i].Xuat();
             }
         }
 
@@ -74,7 +60,7 @@ namespace QuanLyHoDanCu
             GiaDinh giaDinh = new GiaDinh();
             Console.WriteLine("\nNhập thông tin cho gia đình mới:");
             giaDinh.Nhap();
-            khuPhoDanCu.Add(giaDinh);
+            KhuPhoDanCu.Add(giaDinh);
         }
     }
 }

@@ -5,9 +5,11 @@ using System.Text;
 
 namespace QuanLyCanBo
 {
-    internal class QLCB
+    public class QLCB
     {
-        private List<CanBo> danhSachCanBo = new List<CanBo>();
+        public List<CanBo> DanhSachCanBo { get; set; } = new List<CanBo>();
+
+        public QLCB() { }
 
         public void Input()
         {
@@ -48,7 +50,7 @@ namespace QuanLyCanBo
             try
             {
                 canBo.Nhap();
-                danhSachCanBo.Add(canBo);
+                DanhSachCanBo.Add(canBo);
             }
             catch (ArgumentException ex)
             {
@@ -61,14 +63,14 @@ namespace QuanLyCanBo
             Console.InputEncoding = Encoding.UTF8;
             Console.OutputEncoding = Encoding.UTF8;
 
-            if (danhSachCanBo.Count == 0)
+            if (DanhSachCanBo.Count == 0)
             {
                 Console.WriteLine("\nKhông có cán bộ nào trong danh sách.\n");
                 return;
             }
 
             Console.WriteLine("\n--- Thông tin các cán bộ ---");
-            foreach (var canBo in danhSachCanBo)
+            foreach (var canBo in DanhSachCanBo)
             {
                 canBo.Xuat();
             }
@@ -76,7 +78,7 @@ namespace QuanLyCanBo
 
         public void SearchByName(string name)
         {
-            var result = danhSachCanBo.Where(cb => cb.Ten.IndexOf(name, StringComparison.OrdinalIgnoreCase) >= 0).ToList();
+            var result = DanhSachCanBo.Where(cb => cb.Ten.IndexOf(name, StringComparison.OrdinalIgnoreCase) >= 0).ToList();
 
             if (result.Count() > 0)
             {

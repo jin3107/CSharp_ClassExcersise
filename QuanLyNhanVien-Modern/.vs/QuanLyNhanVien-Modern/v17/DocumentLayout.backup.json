@@ -1,17 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyNhanVien-Modern\\",
+  "WorkspaceRootPath": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\QuanLyNhanVien-Modern\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3FD7F24D-0D2D-4583-B3D4-DC89D921776F}|QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern.csproj|d:\\my project\\it\\visual studio 2022\\c#_oop\\exercise_in_class\\quanlynhanvien-modern\\quanlynhanvien-modern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3FD7F24D-0D2D-4583-B3D4-DC89D921776F}|QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\quanlynhanvien-modern\\quanlynhanvien-modern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FD7F24D-0D2D-4583-B3D4-DC89D921776F}|QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern.csproj|solutionrelative:quanlynhanvien-modern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FD7F24D-0D2D-4583-B3D4-DC89D921776F}|QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern.csproj|d:\\my project\\it\\visual studio 2022\\c#_oop\\exercise_in_class\\quanlynhanvien-modern\\quanlynhanvien-modern\\dichvu\\qlnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FD7F24D-0D2D-4583-B3D4-DC89D921776F}|QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern.csproj|solutionrelative:quanlynhanvien-modern\\dichvu\\qlnv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FD7F24D-0D2D-4583-B3D4-DC89D921776F}|QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\quanlynhanvien-modern\\quanlynhanvien-modern\\ngoaile\\ngoailesodienthoai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD7F24D-0D2D-4583-B3D4-DC89D921776F}|QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern.csproj|solutionrelative:quanlynhanvien-modern\\ngoaile\\ngoailesodienthoai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3FD7F24D-0D2D-4583-B3D4-DC89D921776F}|QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern.csproj|d:\\my project\\it\\visual studio 2022\\c#_oop\\exercise_in_class\\quanlynhanvien-modern\\quanlynhanvien-modern\\giaodien\\qlgdnd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3FD7F24D-0D2D-4583-B3D4-DC89D921776F}|QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\quanlynhanvien-modern\\quanlynhanvien-modern\\ngoaile\\ngoailengaysinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD7F24D-0D2D-4583-B3D4-DC89D921776F}|QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern.csproj|solutionrelative:quanlynhanvien-modern\\ngoaile\\ngoailengaysinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD7F24D-0D2D-4583-B3D4-DC89D921776F}|QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\quanlynhanvien-modern\\quanlynhanvien-modern\\ngoaile\\ngoailehoten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD7F24D-0D2D-4583-B3D4-DC89D921776F}|QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern.csproj|solutionrelative:quanlynhanvien-modern\\ngoaile\\ngoailehoten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD7F24D-0D2D-4583-B3D4-DC89D921776F}|QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\quanlynhanvien-modern\\quanlynhanvien-modern\\giaodien\\qlgdnd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FD7F24D-0D2D-4583-B3D4-DC89D921776F}|QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern.csproj|solutionrelative:quanlynhanvien-modern\\giaodien\\qlgdnd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,39 +44,65 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern\\Program.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern\\Program.cs",
               "RelativeDocumentMoniker": "QuanLyNhanVien-Modern\\Program.cs",
-              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern\\Program.cs*",
-              "RelativeToolTip": "QuanLyNhanVien-Modern\\Program.cs*",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAACYAAAArAAAAAAAAAA==",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern\\Program.cs",
+              "RelativeToolTip": "QuanLyNhanVien-Modern\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T02:32:16.484Z",
+              "WhenOpened": "2024-11-28T14:23:48.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "QLNV.cs",
-              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern\\DichVu\\QLNV.cs",
-              "RelativeDocumentMoniker": "QuanLyNhanVien-Modern\\DichVu\\QLNV.cs",
-              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern\\DichVu\\QLNV.cs",
-              "RelativeToolTip": "QuanLyNhanVien-Modern\\DichVu\\QLNV.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "Title": "NgoaiLeSoDienThoai.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern\\NgoaiLe\\NgoaiLeSoDienThoai.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien-Modern\\NgoaiLe\\NgoaiLeSoDienThoai.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern\\NgoaiLe\\NgoaiLeSoDienThoai.cs",
+              "RelativeToolTip": "QuanLyNhanVien-Modern\\NgoaiLe\\NgoaiLeSoDienThoai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T02:24:35.338Z",
+              "WhenOpened": "2024-11-28T14:23:36.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QLGDND.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern\\GiaoDien\\QLGDND.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien-Modern\\GiaoDien\\QLGDND.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern\\GiaoDien\\QLGDND.cs",
+              "RelativeToolTip": "QuanLyNhanVien-Modern\\GiaoDien\\QLGDND.cs",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAAwNoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:22:46.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NgoaiLeHoTen.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern\\NgoaiLe\\NgoaiLeHoTen.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien-Modern\\NgoaiLe\\NgoaiLeHoTen.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern\\NgoaiLe\\NgoaiLeHoTen.cs",
+              "RelativeToolTip": "QuanLyNhanVien-Modern\\NgoaiLe\\NgoaiLeHoTen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:22:26.4Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "QLGDND.cs",
-              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern\\GiaoDien\\QLGDND.cs",
-              "RelativeDocumentMoniker": "QuanLyNhanVien-Modern\\GiaoDien\\QLGDND.cs",
-              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#_OOP\\Exercise_in_Class\\QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern\\GiaoDien\\QLGDND.cs",
-              "RelativeToolTip": "QuanLyNhanVien-Modern\\GiaoDien\\QLGDND.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAuwCwAAAAuAAAAAAAAAA==",
+              "Title": "NgoaiLeNgaySinh.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern\\NgoaiLe\\NgoaiLeNgaySinh.cs",
+              "RelativeDocumentMoniker": "QuanLyNhanVien-Modern\\NgoaiLe\\NgoaiLeNgaySinh.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\QuanLyNhanVien-Modern\\QuanLyNhanVien-Modern\\NgoaiLe\\NgoaiLeNgaySinh.cs",
+              "RelativeToolTip": "QuanLyNhanVien-Modern\\NgoaiLe\\NgoaiLeNgaySinh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-24T16:19:40.98Z",
+              "WhenOpened": "2024-11-28T14:21:49.943Z",
               "EditorCaption": ""
             }
           ]

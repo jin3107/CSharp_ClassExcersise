@@ -7,21 +7,11 @@ using System.Threading.Tasks;
 
 namespace QuanLyNhanVien_Modern.DichVu
 {
-    internal class QLNV
+    public class QLNV
     {
-        private List<NhanVien> danhSachNhanVien = new List<NhanVien>();
+        public List<NhanVien> DanhSachNhanVien { get; set; }
 
-        public QLNV()
-        {
-            
-        }
-
-        public QLNV(List<NhanVien> danhSachNhanVien)
-        {
-            this.DanhSachNhanVien = danhSachNhanVien;
-        }
-
-        internal List<NhanVien> DanhSachNhanVien { get => danhSachNhanVien; set => danhSachNhanVien = value; }
+        public QLNV() { }
 
         public void Them(NhanVien nhanVien)
         {
@@ -44,12 +34,12 @@ namespace QuanLyNhanVien_Modern.DichVu
 
         public List<NhanVien> TimTheoLoai(Type loai)
         {
-            return danhSachNhanVien.Where(nhanVien => nhanVien.GetType() == loai).ToList();
+            return DanhSachNhanVien.Where(nhanVien => nhanVien.GetType() == loai).ToList();
         }
 
         public List<NhanVien> TimTatCa()
         {
-            return danhSachNhanVien;
+            return DanhSachNhanVien;
         }
 
     }

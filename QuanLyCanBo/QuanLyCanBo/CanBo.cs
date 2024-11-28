@@ -6,70 +6,14 @@ using System.Threading.Tasks;
 
 namespace QuanLyCanBo
 {
-    internal class CanBo
+    public class CanBo
     {
-        private string ten;
-        private int tuoi;
-        private string gioiTinh;
-        private string diaChi;
+        public string Ten { get; set; }
+        public int Tuoi { get; set; }
+        public string GioiTinh { get; set; }
+        public string DiaChi { get; set; }
 
         public CanBo() { }
-
-        public CanBo(string ten, int tuoi, string gioiTinh, string diaChi)
-        {
-            this.Ten = ten;
-            this.Tuoi = tuoi;
-            this.GioiTinh = gioiTinh;
-            this.DiaChi = diaChi;
-        }
-
-        public string Ten 
-        { 
-            get => ten; 
-            set
-            {
-                if (!string.IsNullOrWhiteSpace(value))
-                    ten = value.Trim();
-                else
-                    throw new ArgumentException("Tên không được để trống.");
-            }
-        }
-
-        public int Tuoi 
-        { 
-            get => tuoi; 
-            set
-            {
-                if (value >= 1)
-                    tuoi = value;
-                else
-                    throw new ArgumentException("Tuổi là số dương.");
-            }
-        }
-
-        public string GioiTinh 
-        { 
-            get => gioiTinh;
-            set
-            {
-                if (!string.IsNullOrWhiteSpace(value))
-                    gioiTinh = value.Trim();
-                else
-                    throw new ArgumentException("Giới tính không được để trống.");
-            }
-        }
-
-        public string DiaChi 
-        { 
-            get => diaChi;
-            set
-            {
-                if (!string.IsNullOrWhiteSpace(value))
-                    diaChi = value.Trim();
-                else
-                    throw new ArgumentException("Địa chỉ không được để trống.");
-            }
-        }
 
         public virtual void Nhap()
         {

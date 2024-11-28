@@ -6,31 +6,11 @@ using System.Threading.Tasks;
 
 namespace QuanLySach
 {
-    internal class Bao : TaiLieu
+    public class Bao : TaiLieu
     {
-        private int ngayPhatHanh;
+        public int NgayPhatHanh { get; set; }
 
-        public Bao()
-        {
-            
-        }
-
-        public Bao(string maTaiLieu, string tenNhaXuatBan, int soBanPhatHanh, int ngayPhatHanh) : base(maTaiLieu, tenNhaXuatBan, soBanPhatHanh)
-        {
-            this.NgayPhatHanh = ngayPhatHanh;
-        }
-
-        public int NgayPhatHanh 
-        { 
-            get => ngayPhatHanh; 
-            set
-            {
-                if (value > 0 && value <= 31)
-                    ngayPhatHanh = value;
-                else
-                    throw new ArgumentException("Ngày phát hành là số dương.");
-            }
-        }
+        public Bao() { }
 
         public override void Nhap()
         {

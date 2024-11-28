@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace QuanLyTuyenSinh
 {
-    internal class QLTS
+    public class QLTS
     {
-        private List<ThiSinh> danhSachThiSinh = new List<ThiSinh>();
+        public List<ThiSinh> DanhSachThiSinh { get; set; } = new List<ThiSinh>();
 
         public void Input()
         {
@@ -45,7 +45,7 @@ namespace QuanLyTuyenSinh
             try
             {
                 thiSinh.Nhap();
-                danhSachThiSinh.Add(thiSinh);
+                DanhSachThiSinh.Add(thiSinh);
             }
             catch (Exception ex)
             {
@@ -58,14 +58,14 @@ namespace QuanLyTuyenSinh
             Console.InputEncoding = Encoding.UTF8;
             Console.OutputEncoding = Encoding.UTF8;
 
-            if (danhSachThiSinh.Count() == 0)
+            if (DanhSachThiSinh.Count() == 0)
             {
                 Console.WriteLine("\nKhông có thí sinh nào trong danh sách.");
                 return;
             }
 
             Console.WriteLine("\n--- Thông tin thí sinh ---");
-            foreach (var thiSinh in danhSachThiSinh)
+            foreach (var thiSinh in DanhSachThiSinh)
             {
                 thiSinh.Xuat();
             }
@@ -73,7 +73,7 @@ namespace QuanLyTuyenSinh
 
         public ThiSinh Search(string soBaoDanh)
         {
-            return danhSachThiSinh.Find(ts => ts.SoBaoDanh == soBaoDanh);
+            return DanhSachThiSinh.Find(ts => ts.SoBaoDanh == soBaoDanh);
         }
     }
 }

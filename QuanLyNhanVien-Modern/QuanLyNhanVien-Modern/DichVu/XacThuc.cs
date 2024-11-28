@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace QuanLyNhanVien_Modern.DichVu
 {
-    internal class XacThuc
+    public class XacThuc
     {
         public static void KiemTraNgaySinh(DateTime ngaySinh)
         {

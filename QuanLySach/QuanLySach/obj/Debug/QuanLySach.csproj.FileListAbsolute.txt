@@ -5,3 +5,10 @@ D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\QuanLySach\QuanLySa
 D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.CoreCompileInputs.cache
 D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\QuanLySach\QuanLySach\obj\Debug\QuanLySach.exe
 D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\QuanLySach\QuanLySach\obj\Debug\QuanLySach.pdb
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe.config
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\QuanLySach\QuanLySach\bin\Debug\QuanLySach.exe
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\QuanLySach\QuanLySach\bin\Debug\QuanLySach.pdb
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.AssemblyReference.cache
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\QuanLySach\QuanLySach\obj\Debug\QuanLySach.csproj.CoreCompileInputs.cache
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\QuanLySach\QuanLySach\obj\Debug\QuanLySach.exe
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\QuanLySach\QuanLySach\obj\Debug\QuanLySach.pdb

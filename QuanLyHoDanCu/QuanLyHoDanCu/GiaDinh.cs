@@ -6,39 +6,12 @@ using System.Threading.Tasks;
 
 namespace QuanLyHoDanCu
 {
-    internal class GiaDinh
+    public class GiaDinh
     {
-        private List<Nguoi> hoGiaDinh;
-        private string diaChi;
+        public List<Nguoi> HoGiaDinh { get; set; } = new List<Nguoi>();
+        public string DiaChi { get; set; }
 
-        public GiaDinh() 
-        {
-            hoGiaDinh = new List<Nguoi>();
-        }
-
-        public GiaDinh(List<Nguoi> hoGiaDinh, string diaChi)
-        {
-            HoGiaDinh = hoGiaDinh;
-            this.DiaChi = diaChi;
-        }
-
-        public string DiaChi 
-        { 
-            get => diaChi;
-            set
-            {
-                if (!string.IsNullOrWhiteSpace(value))
-                    diaChi = value.Trim();
-                else
-                    throw new ArgumentException("Địa chỉ không được để trống.");
-            }
-        }
-
-        internal List<Nguoi> HoGiaDinh
-        { 
-            get => hoGiaDinh;
-            set => hoGiaDinh = value; 
-        }
+        public GiaDinh() { }
 
         public void Nhap()
         {
@@ -60,7 +33,7 @@ namespace QuanLyHoDanCu
                 Console.WriteLine($"\n--- Nhập thông tin cho thành viên thứ {i + 1} ---");
                 Nguoi nguoi = new Nguoi();
                 nguoi.Nhap();
-                hoGiaDinh.Add(nguoi);
+                HoGiaDinh.Add(nguoi);
             }
         }
 
@@ -69,7 +42,7 @@ namespace QuanLyHoDanCu
             Console.InputEncoding = Encoding.UTF8;
             Console.OutputEncoding = Encoding.UTF8;
 
-            Console.WriteLine($"\nĐịa chỉ gia đình: {DiaChi}");
+            Console.WriteLine($"Địa chỉ gia đình: {DiaChi}");
             Console.WriteLine("- Danh sách thành viên -");
 
             foreach (Nguoi nguoi in HoGiaDinh)

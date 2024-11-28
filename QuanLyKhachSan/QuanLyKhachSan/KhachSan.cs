@@ -6,21 +6,10 @@ using System.Threading.Tasks;
 
 namespace QuanLyKhachSan
 {
-    internal class KhachSan
+    public class KhachSan
     {
-        private List<Nguoi> danhSachNguoi;
-
-        public KhachSan()
-        {
-            danhSachNguoi = new List<Nguoi>();
-        }
-
-        public KhachSan(List<Nguoi> danhSachNguoi)
-        {
-            this.DanhSachNguoi = danhSachNguoi;
-        }
-
-        internal List<Nguoi> DanhSachNguoi { get => danhSachNguoi; set => danhSachNguoi = value; }
+        public List<Nguoi> DanhSachNguoi { get; set; } = new List<Nguoi>();
+        public KhachSan() { }
     
         public void Them(Nguoi nguoi)
         {

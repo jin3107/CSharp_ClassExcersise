@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace QuanLyNhanVien_Modern.NgoaiLe
 {
-    internal class NgoaiLeEmail : System.Exception
+    public class NgoaiLeEmail : Exception
     {
         public NgoaiLeEmail(string message) : base(message)
         {

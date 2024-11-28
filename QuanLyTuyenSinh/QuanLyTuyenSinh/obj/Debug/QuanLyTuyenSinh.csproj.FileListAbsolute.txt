@@ -5,3 +5,10 @@ D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\QuanLyTuyenSinh\Qua
 D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\QuanLyTuyenSinh\QuanLyTuyenSinh\obj\Debug\QuanLyTuyenSinh.csproj.CoreCompileInputs.cache
 D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\QuanLyTuyenSinh\QuanLyTuyenSinh\obj\Debug\QuanLyTuyenSinh.exe
 D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\QuanLyTuyenSinh\QuanLyTuyenSinh\obj\Debug\QuanLyTuyenSinh.pdb
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\QuanLyTuyenSinh\QuanLyTuyenSinh\bin\Debug\QuanLyTuyenSinh.exe.config
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\QuanLyTuyenSinh\QuanLyTuyenSinh\bin\Debug\QuanLyTuyenSinh.exe
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\QuanLyTuyenSinh\QuanLyTuyenSinh\bin\Debug\QuanLyTuyenSinh.pdb
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\QuanLyTuyenSinh\QuanLyTuyenSinh\obj\Debug\QuanLyTuyenSinh.csproj.AssemblyReference.cache
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\QuanLyTuyenSinh\QuanLyTuyenSinh\obj\Debug\QuanLyTuyenSinh.csproj.CoreCompileInputs.cache
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\QuanLyTuyenSinh\QuanLyTuyenSinh\obj\Debug\QuanLyTuyenSinh.exe
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\QuanLyTuyenSinh\QuanLyTuyenSinh\obj\Debug\QuanLyTuyenSinh.pdb

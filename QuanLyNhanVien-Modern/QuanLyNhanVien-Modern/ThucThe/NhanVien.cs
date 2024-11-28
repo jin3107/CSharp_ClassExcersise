@@ -6,27 +6,17 @@ using System.Threading.Tasks;
 
 namespace QuanLyNhanVien_Modern.ThucThe
 {
-    internal abstract class NhanVien
+    public abstract class NhanVien
     {
-        private static long soLuong = 0;
-        private string maNhanVien;
-        private string hoTen;
-        private DateTime ngaySinh;
-        private string soDienThoai;
-        private string email;
-        private List<ChungChi> danhSachChungChi;
+        public static long SoLuong = 0;
+        public string MaNhanVien { get; set; }
+        public string HoTen { get; set; }
+        public DateTime NgaySinh { get; set; }
+        public string SoDienThoai { get; set; }
+        public string Email { get; set; }
+        public List<ChungChi> DanhSachChungChi { get; set; } = new List<ChungChi>();
 
-        protected NhanVien()
-        {
-        }
-
-        public static long SoLuong { get => soLuong; set => soLuong = value; }
-        public string MaNhanVien { get => maNhanVien; set => maNhanVien = value; }
-        public string HoTen { get => hoTen; set => hoTen = value; }
-        public DateTime NgaySinh { get => ngaySinh; set => ngaySinh = value; }
-        public string SoDienThoai { get => soDienThoai; set => soDienThoai = value; }
-        public string Email { get => email; set => email = value; }
-        internal List<ChungChi> DanhSachChungChi { get => danhSachChungChi; set => danhSachChungChi = value; }
+        protected NhanVien() { }
 
         public abstract void HienThiThongTin();
     }

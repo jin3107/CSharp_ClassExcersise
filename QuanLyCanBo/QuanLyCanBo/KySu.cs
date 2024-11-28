@@ -6,28 +6,11 @@ using System.Threading.Tasks;
 
 namespace QuanLyCanBo
 {
-    internal class KySu : CanBo
+    public class KySu : CanBo
     {
-        private string nganhDaoTao;
+        public string NganhDaoTao { get; set; }
 
         public KySu() { }
-
-        public KySu(string ten, int tuoi, string gioiTinh, string diaChi, string nganhDaoTao) : base(ten, tuoi, gioiTinh, diaChi)
-        {
-            this.NganhDaoTao = nganhDaoTao;
-        }
-
-        public string NganhDaoTao 
-        {
-            get => nganhDaoTao;
-            set 
-            {
-                if (!string.IsNullOrWhiteSpace(value))
-                    nganhDaoTao = value.Trim();
-                else
-                    throw new ArgumentException("Ngành Đào Tạo không được để trống");
-            }
-        }
 
         public override void Nhap()
         {

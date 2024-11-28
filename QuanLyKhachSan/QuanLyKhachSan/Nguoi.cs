@@ -3,78 +3,15 @@ using System.Text;
 
 namespace QuanLyKhachSan
 {
-    internal class Nguoi
+    public class Nguoi
     {
-        private string hoTen;
-        private int tuoi;
-        private string cmnd;
-        private Phong phongThue;
-        private int soNgayThue;
-
-        public Nguoi(string hoTen, int tuoi, string cmnd, Phong phongThue, int soNgayThue)
-        {
-            this.HoTen = hoTen;
-            this.Tuoi = tuoi;
-            this.Cmnd = cmnd;
-            this.PhongThue = phongThue;
-            this.SoNgayThue = soNgayThue;
-        }
+        public string HoTen { get; set; }
+        public int Tuoi { get; set; }
+        public string Cmnd { get; set; }
+        public Phong PhongThue { get; set; }
+        public int SoNgayThue { get; set; }
 
         public Nguoi() { }
-
-        public string HoTen
-        {
-            get => hoTen;
-            set
-            {
-                if (!string.IsNullOrWhiteSpace(value))
-                    hoTen = value.Trim();
-                else
-                    throw new ArgumentException("Họ tên không được để trống.");
-            }
-        }
-
-        public int Tuoi
-        {
-            get => tuoi;
-            set
-            {
-                if (value >= 1)
-                    tuoi = value;
-                else
-                    throw new ArgumentException("Tuổi là số nguyên dương.");
-            }
-        }
-
-        public string Cmnd
-        {
-            get => cmnd;
-            set
-            {
-                if (!string.IsNullOrWhiteSpace(value))
-                    cmnd = value.Trim();
-                else
-                    throw new ArgumentException("CMND không được để trống.");
-            }
-        }
-
-        internal Phong PhongThue
-        {
-            get => phongThue;
-            set => phongThue = value;
-        }
-
-        public int SoNgayThue
-        {
-            get => soNgayThue;
-            set
-            {
-                if (value > 0)
-                    soNgayThue = value;
-                else
-                    throw new ArgumentException("Số ngày thuê phải là số nguyên dương.");
-            }
-        }
 
         public void Nhap()
         {
@@ -132,7 +69,7 @@ namespace QuanLyKhachSan
             Console.OutputEncoding = Encoding.UTF8;
             Console.WriteLine($"Tên: {HoTen}, Tuổi: {Tuoi}, CMND: {Cmnd}");
             Console.WriteLine($"Phòng: {PhongThue.LoaiPhong}, Giá: {PhongThue.GiaPhong}, Số ngày thuê: {SoNgayThue}");
-            Console.WriteLine($"Tổng tiền: {PhongThue.GiaPhong * SoNgayThue}\n");
+            Console.WriteLine($"Tổng tiền: {PhongThue.GiaPhong * SoNgayThue} VNĐ\n");
         }
     }
 }

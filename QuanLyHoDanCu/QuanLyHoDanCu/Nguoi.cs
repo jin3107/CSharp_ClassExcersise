@@ -6,70 +6,14 @@ using System.Threading.Tasks;
 
 namespace QuanLyHoDanCu
 {
-    internal class Nguoi
+    public class Nguoi
     {
-        private string hoTen;
-        private int tuoi;
-        private string ngheNghiep;
-        private string cmnd;
+        public string HoTen { get; set; }
+        public int Tuoi { get; set; }
+        public string NgheNghiep { get; set; }
+        public string Cmnd { get; set; }
 
         public Nguoi() { }
-
-        public Nguoi(string hoTen, int tuoi, string ngheNghiep, string cmnd)
-        {
-            this.HoTen = hoTen;
-            this.Tuoi = tuoi;
-            this.NgheNghiep = ngheNghiep;
-            this.Cmnd = cmnd;
-        }
-
-        public string HoTen 
-        { 
-            get => hoTen;
-            set
-            {
-                if (!string.IsNullOrWhiteSpace(value))
-                    hoTen = value.Trim();
-                else
-                    throw new ArgumentException("Họ tên không được để trống.");
-            }
-        }
-
-        public int Tuoi 
-        { 
-            get => tuoi;
-            set
-            {
-                if (value >= 1)
-                    tuoi = value;
-                else
-                    throw new ArgumentException("Tuổi là số dương.");
-            }
-        }
-
-        public string NgheNghiep 
-        { 
-            get => ngheNghiep;
-            set
-            {
-                if (!string.IsNullOrWhiteSpace(value))
-                    ngheNghiep = value.Trim();
-                else
-                    throw new ArgumentException("Nghề nghiệp không được để trống.");
-            }
-        }
-
-        public string Cmnd 
-        { 
-            get => cmnd;
-            set
-            {
-                if (!string.IsNullOrWhiteSpace(value))
-                    cmnd = value.Trim();
-                else
-                    throw new ArgumentException("CMND không được để trống.");
-            }
-        }
 
         public void Nhap()
         {
@@ -91,7 +35,7 @@ namespace QuanLyHoDanCu
             }
 
             Console.Write("Nhập nghề nghiệp: ");
-            ngheNghiep = Console.ReadLine();
+            NgheNghiep = Console.ReadLine();
 
             Console.Write("Nhập CMND: ");
             Cmnd = Console.ReadLine();

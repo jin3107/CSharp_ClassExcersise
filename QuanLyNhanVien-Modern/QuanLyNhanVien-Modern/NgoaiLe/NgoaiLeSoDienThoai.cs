@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace QuanLyNhanVien_Modern.NgoaiLe
 {
-    internal class NgoaiLeSoDienThoai : System.Exception
+    public class NgoaiLeSoDienThoai : Exception
     {
         public NgoaiLeSoDienThoai(string message) : base(message)
         {

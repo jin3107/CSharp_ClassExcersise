@@ -3,48 +3,18 @@ using System.Text;
 
 namespace QuanLyKhachSan
 {
-    internal class Phong
+    public class Phong
     {
-        private string loaiPhong;
-        private int giaPhong;
+        public string LoaiPhong { get; set; }
+        public int GiaPhong { get; set; }
 
         public Phong() { }
 
         public Phong(string loaiPhong, int giaPhong)
         {
-            this.LoaiPhong = loaiPhong;
-            this.GiaPhong = giaPhong;
-        }
-
-        public string LoaiPhong
-        {
-            get => loaiPhong;
-            set
-            {
-                if (!string.IsNullOrWhiteSpace(value))
-                    loaiPhong = value.Trim(); 
-                else
-                    throw new ArgumentException("Loại phòng không được để trống.");
-            }
-        }
-
-        public int GiaPhong
-        {
-            get => giaPhong;
-            set
-            {
-                if (value > 1)
-                    giaPhong = value;
-                else
-                    throw new ArgumentException("Giá phòng là số dương và lớn hơn 0.");
-            }
-        }
-
-        public Phong(string loai)
-        {
             Console.OutputEncoding = Encoding.UTF8;
 
-            switch (loai)
+            switch (loaiPhong)
             {
                 case "A":
                     LoaiPhong = "A";

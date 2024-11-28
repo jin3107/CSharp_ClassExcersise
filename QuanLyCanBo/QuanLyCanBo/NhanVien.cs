@@ -6,28 +6,11 @@ using System.Threading.Tasks;
 
 namespace QuanLyCanBo
 {
-    internal class NhanVien : CanBo
+    public class NhanVien : CanBo
     {
-        private string congViec;
+        public string CongViec { get; set; }
 
         public NhanVien() { }
-
-        public NhanVien(string ten, int tuoi, string gioiTinh, string diaChi, string congViec) : base(ten, tuoi, gioiTinh, diaChi)
-        {
-            this.CongViec = congViec;
-        }
-
-        public string CongViec 
-        { 
-            get => congViec; 
-            set
-            {
-                if (!string.IsNullOrWhiteSpace(value))
-                    congViec = value.Trim();
-                else
-                    throw new ArgumentException("Công việc không được để trống.");
-            }
-        }
 
         public override void Nhap()
         {

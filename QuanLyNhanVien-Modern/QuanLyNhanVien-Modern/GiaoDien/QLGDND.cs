@@ -8,21 +8,11 @@ using System.Threading.Tasks;
 
 namespace QuanLyNhanVien_Modern.GiaoDien
 {
-    internal class QLGDND
+    public class QLGDND
     {
-        private QLNV quanLyNhanVien = new QLNV();
+        public QLNV QuanLyNhanVien { get; set; } = new QLNV();
 
-        public QLGDND()
-        {
-            
-        }
-
-        public QLGDND(QLNV quanLyNhanVien)
-        {
-            this.QuanLyNhanVien = quanLyNhanVien;
-        }
-
-        internal QLNV QuanLyNhanVien { get => quanLyNhanVien; set => quanLyNhanVien = value; }
+        public QLGDND() { }
     
         public void Them(int loai)
         {
@@ -42,7 +32,7 @@ namespace QuanLyNhanVien_Modern.GiaoDien
             try
             {
                 KiemTraDuLieu(nhanVien);
-                quanLyNhanVien.Them(nhanVien);
+                QuanLyNhanVien.Them(nhanVien);
             }
             catch (Exception ex)
             {
@@ -109,7 +99,7 @@ namespace QuanLyNhanVien_Modern.GiaoDien
             Console.OutputEncoding = Encoding.UTF8;
 
             string id = MayQuet.DocChuoi("\nNhập mã nhân viên để cập nhật: ");
-            var nhanVien = quanLyNhanVien.TimTheoId(id);
+            var nhanVien = QuanLyNhanVien.TimTheoId(id);
 
             if (nhanVien == null)
             {
@@ -206,7 +196,7 @@ namespace QuanLyNhanVien_Modern.GiaoDien
         public void Xoa()
         {
             string id = MayQuet.DocChuoi("\nNhập mã nhân viên để xóa: : ");
-            if (quanLyNhanVien.XoaTheoId(id))
+            if (QuanLyNhanVien.XoaTheoId(id))
             {
                 Console.WriteLine("Đã xóa nhân viên thành công.");
             }
@@ -218,7 +208,7 @@ namespace QuanLyNhanVien_Modern.GiaoDien
 
         public void HienThiTatCaNhanVien()
         {
-            foreach (var employee in quanLyNhanVien.TimTatCa())
+            foreach (var employee in QuanLyNhanVien.TimTatCa())
             {
                 employee.HienThiThongTin();
             }

@@ -6,15 +6,11 @@ using System.Threading.Tasks;
 
 namespace QuanLyTuyenSinh
 {
-    internal class ThiSinhKhoiA : ThiSinh
+    public class ThiSinhKhoiA : ThiSinh
     {
-        private static string MON_TOAN = "Toán";
-        private static string MON_LY = "Lý";
-        private static string MON_HOA = "Hóa";
-
-        public ThiSinhKhoiA(string soBaoDanh, string hoTen, string diaChi, int mucUuTien) : base(soBaoDanh, hoTen, diaChi, mucUuTien)
-        {
-        }
+        public static string MON_TOAN = "Toán";
+        public static string MON_LY = "Lý";
+        public static string MON_HOA = "Hóa";
 
         public ThiSinhKhoiA() { }
 

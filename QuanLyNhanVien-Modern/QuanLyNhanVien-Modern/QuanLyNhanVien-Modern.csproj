@@ -49,7 +49,7 @@
     <Compile Include="GiaoDien\QLGDND.cs" />
     <Compile Include="NgoaiLe\NgoaiLeEmail.cs" />
     <Compile Include="NgoaiLe\NgoaiLeHoTen.cs" />
-    <Compile Include="NgoaiLe\NgoaiLeNhanVien.cs" />
+    <Compile Include="NgoaiLe\NgoaiLeNgaySinh.cs" />
     <Compile Include="NgoaiLe\NgoaiLeSoDienThoai.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -5,3 +5,10 @@ D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\QuanLyNhanVien-Mode
 D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\QuanLyNhanVien-Modern\QuanLyNhanVien-Modern\obj\Debug\QuanLyNhanVien-Modern.csproj.CoreCompileInputs.cache
 D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\QuanLyNhanVien-Modern\QuanLyNhanVien-Modern\obj\Debug\QuanLyNhanVien-Modern.exe
 D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\QuanLyNhanVien-Modern\QuanLyNhanVien-Modern\obj\Debug\QuanLyNhanVien-Modern.pdb
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\QuanLyNhanVien-Modern\QuanLyNhanVien-Modern\bin\Debug\QuanLyNhanVien-Modern.exe.config
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\QuanLyNhanVien-Modern\QuanLyNhanVien-Modern\bin\Debug\QuanLyNhanVien-Modern.exe
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\QuanLyNhanVien-Modern\QuanLyNhanVien-Modern\bin\Debug\QuanLyNhanVien-Modern.pdb
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\QuanLyNhanVien-Modern\QuanLyNhanVien-Modern\obj\Debug\QuanLyNhanVien-Modern.csproj.AssemblyReference.cache
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\QuanLyNhanVien-Modern\QuanLyNhanVien-Modern\obj\Debug\QuanLyNhanVien-Modern.csproj.CoreCompileInputs.cache
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\QuanLyNhanVien-Modern\QuanLyNhanVien-Modern\obj\Debug\QuanLyNhanVien-Modern.exe
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\QuanLyNhanVien-Modern\QuanLyNhanVien-Modern\obj\Debug\QuanLyNhanVien-Modern.pdb

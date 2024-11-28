@@ -6,27 +6,13 @@ using System.Threading.Tasks;
 
 namespace QuanLyNhanVien_Modern.ThucThe
 {
-    internal class ThucTap : NhanVien
+    public class ThucTap : NhanVien
     {
-        private string chuyenNganh;
-        private int hocKy;
-        private string tenTruongDaiHoc;
+        public string ChuyenNganh { get; set; }
+        public int HocKy { get; set; }
+        public string TenTruongDaiHoc { get; set; }
 
-        public ThucTap()
-        {
-        }
-
-        public ThucTap(string chuyenNganh, int hocKy, string tenTruongDaiHoc)
-        {
-            this.ChuyenNganh = chuyenNganh;
-            this.HocKy = hocKy;
-            this.TenTruongDaiHoc = tenTruongDaiHoc;
-        }
-
-        public string ChuyenNganh { get => chuyenNganh; set => chuyenNganh = value; }
-        public int HocKy { get => hocKy; set => hocKy = value; }
-        public string TenTruongDaiHoc { get => tenTruongDaiHoc; set => tenTruongDaiHoc = value; }
-
+        public ThucTap() { }
         public override void HienThiThongTin()
         {
             Console.WriteLine(this.ToString());

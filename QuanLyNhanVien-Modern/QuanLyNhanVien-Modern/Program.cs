@@ -14,7 +14,7 @@ namespace MainApp
 
             while (true)
             {
-                Console.Clear(); // Clear màn hình khi hiển thị menu chính
+                Console.Clear();
                 Console.WriteLine("\n--- Ứng Dụng Quản Lý Nhân Viên ---");
                 Console.WriteLine("1. Thêm Nhân viên");
                 Console.WriteLine("2. Cập nhật Nhân viên");
@@ -34,7 +34,7 @@ namespace MainApp
                 switch (choice)
                 {
                     case 1:
-                        Console.Clear(); // Clear màn hình khi chọn "Thêm Nhân viên"
+                        Console.Clear();
                         Console.WriteLine("\n--- Thêm Nhân viên ---");
                         Console.WriteLine("0: Kinh Nghiệm\n1: Mới Tốt Nghiệp\n2: Thực Tập");
                         Console.Write("\nLựa chọn loại nhân viên: ");
@@ -51,7 +51,7 @@ namespace MainApp
                         break;
 
                     case 2:
-                        Console.Clear(); // Clear màn hình khi chọn "Cập nhật Nhân viên"
+                        Console.Clear();
                         Console.WriteLine("\n--- Cập nhật Nhân viên ---");
                         quanlyGiaoDienNguoiDung.CapNhat();
                         Console.WriteLine("\nNhấn Enter để quay lại menu...");
@@ -59,7 +59,7 @@ namespace MainApp
                         break;
 
                     case 3:
-                        Console.Clear(); // Clear màn hình khi chọn "Xóa Nhân viên"
+                        Console.Clear(); 
                         Console.WriteLine("\n--- Xóa Nhân viên ---");
                         quanlyGiaoDienNguoiDung.Xoa();
                         Console.WriteLine("\nNhấn Enter để quay lại menu...");
@@ -67,7 +67,7 @@ namespace MainApp
                         break;
 
                     case 4:
-                        Console.Clear(); // Clear màn hình khi chọn "Hiển thị tất cả Nhân viên"
+                        Console.Clear(); 
                         Console.WriteLine("\n--- Danh sách Nhân viên ---");
                         quanlyGiaoDienNguoiDung.HienThiTatCaNhanVien();
                         Console.WriteLine("\nNhấn Enter để quay lại menu...");
@@ -75,7 +75,7 @@ namespace MainApp
                         break;
 
                     case 5:
-                        Console.Clear(); // Clear màn hình khi chọn "Thoát"
+                        Console.Clear(); 
                         Console.WriteLine("Thoát Chương Trình...");
                         return;
 

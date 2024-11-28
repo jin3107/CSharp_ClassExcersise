@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace QuanLyNhanVien_Modern.GiaoDien
 {
-    internal static class MayQuet
+    public static class MayQuet
     {
         public static string DocChuoi(string thongBao)
         {

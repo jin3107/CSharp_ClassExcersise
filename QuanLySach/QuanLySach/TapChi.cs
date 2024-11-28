@@ -6,45 +6,12 @@ using System.Threading.Tasks;
 
 namespace QuanLySach
 {
-    internal class TapChi : TaiLieu
+    public class TapChi : TaiLieu
     {
-        private string soPhatHanh;
-        private int thangPhatHanh;
+        public string SoPhatHanh { get; set; }
+        public int ThangPhatHanh { get; set; }
 
-        public TapChi()
-        {
-            
-        }
-
-        public TapChi(string maTaiLieu, string tenNhaXuatBan, int soBanPhatHanh, string soPhatHanh, int thangPhatHanh) : base(maTaiLieu, tenNhaXuatBan, soBanPhatHanh)
-        {
-            this.SoPhatHanh = soPhatHanh;
-            this.ThangPhatHanh = thangPhatHanh;
-        }
-
-        public string SoPhatHanh 
-        { 
-            get => soPhatHanh; 
-            set
-            {
-                if (!string.IsNullOrWhiteSpace(value))
-                    SoPhatHanh = value.Trim();
-                else
-                    throw new ArgumentException("Số phát hành không được để trống.");
-            }
-        }
-
-        public int ThangPhatHanh 
-        { 
-            get => thangPhatHanh; 
-            set
-            {
-                if (value > 0 && value <= 12)
-                    thangPhatHanh = value;
-                else
-                    throw new ArgumentException("Tháng phát hành là số dương.");
-            }
-        }
+        public TapChi() { }
 
         public override void Nhap()
         {
