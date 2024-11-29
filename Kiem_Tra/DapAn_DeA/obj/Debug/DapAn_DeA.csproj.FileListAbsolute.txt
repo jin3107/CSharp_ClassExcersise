@@ -5,3 +5,10 @@ D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\Kiem_Tra\DapAn_DeA\
 D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\Kiem_Tra\DapAn_DeA\obj\Debug\DapAn_DeA.csproj.CoreCompileInputs.cache
 D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\Kiem_Tra\DapAn_DeA\obj\Debug\DapAn_DeA.exe
 D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\Kiem_Tra\DapAn_DeA\obj\Debug\DapAn_DeA.pdb
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\Kiem_Tra\DapAn_DeA\bin\Debug\DapAn_DeA.exe.config
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\Kiem_Tra\DapAn_DeA\bin\Debug\DapAn_DeA.exe
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\Kiem_Tra\DapAn_DeA\bin\Debug\DapAn_DeA.pdb
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\Kiem_Tra\DapAn_DeA\obj\Debug\DapAn_DeA.csproj.AssemblyReference.cache
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\Kiem_Tra\DapAn_DeA\obj\Debug\DapAn_DeA.csproj.CoreCompileInputs.cache
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\Kiem_Tra\DapAn_DeA\obj\Debug\DapAn_DeA.exe
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\Kiem_Tra\DapAn_DeA\obj\Debug\DapAn_DeA.pdb

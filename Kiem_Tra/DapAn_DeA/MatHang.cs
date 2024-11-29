@@ -6,37 +6,25 @@ using System.Threading.Tasks;
 
 namespace DapAn_DeA
 {
-    internal class MatHang
+    public class MatHang
     {
-        private int maHang;
-        private string tenHang;
-        private int soLuong;
-        private int donGia;
+        public int MaHang { get; set; }
+        public string TenHang { get; set; }
+        public int SoLuong { get; set; }
+        public int DonGia { get; set; }
 
-        public MatHang(int maHang, string tenHang, int soLuong, int donGia)
+        public MatHang() { }
+        public int TienHang()
         {
-            this.MaHang = maHang;
-            this.TenHang = tenHang;
-            this.SoLuong = soLuong;
-            this.DonGia = donGia;
+            return SoLuong * DonGia;
         }
-
-        public MatHang()
-        {
-            
-        }
-
-        public int MaHang { get => maHang; set => maHang = value; }
-        public string TenHang { get => tenHang; set => tenHang = value; }
-        public int SoLuong { get => soLuong; set => soLuong = value; }
-        public int DonGia { get => donGia; set => donGia = value; }
 
         public void Nhap()
         {
             Console.InputEncoding = Encoding.UTF8;
             Console.OutputEncoding = Encoding.UTF8;
 
-            Console.Write("Nhập mã hàng: ");
+            Console.Write("\nNhập mã hàng: ");
             MaHang = Convert.ToInt32(Console.ReadLine());
             Console.Write("Nhập tên hàng: ");
             TenHang = Convert.ToString(Console.ReadLine());
@@ -46,14 +34,9 @@ namespace DapAn_DeA
             DonGia = Convert.ToInt32(Console.ReadLine());
         }
         
-        public int TienHang()
+        public void Xuat(int stt)
         {
-            return SoLuong * DonGia;
-        }
-
-        public void Xuat()
-        {
-            Console.WriteLine($"{MaHang,-10} {TenHang,-20} {SoLuong,-10} {DonGia,-10} {TienHang(),-15}");
+            Console.WriteLine($"{stt, -5} {MaHang,-10} {TenHang,-20} {SoLuong,-10} {DonGia,-10} {TienHang(),-15}");
         }
     }
 }

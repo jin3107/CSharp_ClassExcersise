@@ -7,24 +7,10 @@ using System.Threading.Tasks;
 
 namespace DapAn_DeA
 {
-    internal class CuaHang
+    public class CuaHang
     {
-        private double doanhThu = 0;
-        private List<HoaDon> arr = new List<HoaDon>();
-
-        public CuaHang()
-        {
-            
-        }
-
-        public CuaHang(double doanhThu, List<HoaDon> arr)
-        {
-            this.DoanhThu = doanhThu;
-            this.Arr = arr;
-        }
-
-        public double DoanhThu { get => doanhThu; set => doanhThu = value; }
-        internal List<HoaDon> Arr { get => arr; set => arr = value; }
+        public List<HoaDon> DanhSachHoaDon = new List<HoaDon>();
+        double DoanhThu = 0;
 
         public void Nhap()
         {
@@ -41,7 +27,7 @@ namespace DapAn_DeA
                 giaTriHD = hd.Xuat();
                 if (giaTriHD == 0) break;
                 DoanhThu += giaTriHD;
-                Arr.Add(hd);
+                DanhSachHoaDon.Add(hd);
                 soHD++;
             }
             while (true);

@@ -7,24 +7,12 @@ using System.Threading.Tasks;
 
 namespace DapAn_DeA
 {
-    internal class HoaDon
+    public class HoaDon
     {
-        private double giaTriHd = 0;
-        private List<MatHang> arr = new List<MatHang>();
+        public List<MatHang> DanhSachMatHang = new List<MatHang>();
+        double GiaTriHoaDon = 0;
 
-        public HoaDon()
-        {
-            
-        }
-
-        public HoaDon(double giaTriHd, List<MatHang> arr)
-        {
-            this.GiaTriHd = giaTriHd;
-            this.Arr = arr;
-        }
-
-        public double GiaTriHd { get => giaTriHd; set => giaTriHd = value; }
-        internal List<MatHang> Arr { get => arr; set => arr = value; }
+        public HoaDon() { }
 
         public void Nhap()
         {
@@ -35,7 +23,7 @@ namespace DapAn_DeA
                 {
                     MatHang mh = new MatHang();
                     mh.Nhap();
-                    Arr.Add(mh);
+                    DanhSachMatHang.Add(mh);
                 }
                 catch (Exception)
                 {
@@ -50,15 +38,17 @@ namespace DapAn_DeA
             Console.InputEncoding = Encoding.UTF8;
             Console.OutputEncoding = Encoding.UTF8;
 
-            Console.WriteLine("\n{0,-10} {1,-20} {2,-10} {3,-10} {4,-15}", "Mã Hàng", "Tên Hàng", "Số Lượng", "Đơn Giá", "Thành Tiền");
-            Console.WriteLine(new string('-', 65));
-            foreach (MatHang mh in Arr)
+            int stt = 1;
+            Console.WriteLine($"\n{"STT", -5} {"Mã Hàng",-10} {"Tên Hàng",-20} {"Số Lượng",-10} {"Đơn Giá",-10} {"Thành Tiền",-15}");
+            Console.WriteLine(new string('-', 70));
+            foreach (MatHang mh in DanhSachMatHang)
             {
-                GiaTriHd += mh.TienHang();
-                mh.Xuat();
+                GiaTriHoaDon += mh.TienHang();
+                mh.Xuat(stt++);
             }
-            Console.WriteLine($"\nTổng tiền: {GiaTriHd}");
-            return GiaTriHd;
+
+            Console.WriteLine($"\nTổng tiền: {GiaTriHoaDon}");
+            return GiaTriHoaDon;
         }
     }
 }
