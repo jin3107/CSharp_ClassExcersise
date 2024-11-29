@@ -1,7 +1,0 @@
-D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\Kiem_Tra\QuanLyCuaHang_DeA\QuanLyCuaHang_DeA\obj\Debug\QuanLyCuaHang_DeA.csproj.AssemblyReference.cache
-D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\Kiem_Tra\QuanLyCuaHang_DeA\QuanLyCuaHang_DeA\obj\Debug\QuanLyCuaHang_DeA.csproj.CoreCompileInputs.cache
-D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\Kiem_Tra\QuanLyCuaHang_DeA\QuanLyCuaHang_DeA\bin\Debug\QuanLyCuaHang_DeA.exe.config
-D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\Kiem_Tra\QuanLyCuaHang_DeA\QuanLyCuaHang_DeA\bin\Debug\QuanLyCuaHang_DeA.exe
-D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\Kiem_Tra\QuanLyCuaHang_DeA\QuanLyCuaHang_DeA\bin\Debug\QuanLyCuaHang_DeA.pdb
-D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\Kiem_Tra\QuanLyCuaHang_DeA\QuanLyCuaHang_DeA\obj\Debug\QuanLyCuaHang_DeA.exe
-D:\My Project\IT\Visual Studio 2022\C#_OOP\Exercise_in_Class\Kiem_Tra\QuanLyCuaHang_DeA\QuanLyCuaHang_DeA\obj\Debug\QuanLyCuaHang_DeA.pdb
