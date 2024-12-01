@@ -42,5 +42,12 @@ namespace QuanLySach
 
             Console.WriteLine($"Tên tác giả: {TenTacGia}, Số trang: {SoTrang}\n");
         }
+
+        public override string ToString()
+        {
+            return $"{base.ToString()} \n" +
+                $"Tên tác giả : {TenTacGia} \n" +
+                $"Số trang: {SoTrang}";
+        }
     }
 }

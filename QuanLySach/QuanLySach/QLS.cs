@@ -87,6 +87,7 @@ namespace QuanLySach
         public void TimSach()
         {
             DanhSachSach.OfType<Sach>().ToList().ForEach(x => x.Xuat());
+            //DanhSachSach.OfType<Sach>().ToList().ForEach(x => { Console.WriteLine(x.ToString()); });
         }
 
         public void TimTapChi()

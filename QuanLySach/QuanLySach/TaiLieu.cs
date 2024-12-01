@@ -44,5 +44,10 @@ namespace QuanLySach
 
             Console.WriteLine($"Mã tài liệu: {MaTaiLieu}, Tên nhà xuất bản: {TenNhaXuatBan}, Số bản phát hành: {SoBanPhatHanh}");
         }
+
+        public override string ToString()
+        {
+            return $"Mã tài liệu: {MaTaiLieu}, Tên nhà xuất bản: {TenNhaXuatBan}, Số bản phát hành: {SoBanPhatHanh}";
+        }
     }
 }
