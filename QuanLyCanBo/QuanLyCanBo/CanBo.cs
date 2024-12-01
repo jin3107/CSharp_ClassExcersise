@@ -23,7 +23,7 @@ namespace QuanLyCanBo
             Console.Write("Nhập tên: ");
             Ten = Console.ReadLine();
 
-            while (true)
+            while (true) 
             {
                 Console.Write("Nhập tuổi: ");
                 if (int.TryParse(Console.ReadLine(), out int tuoi) && tuoi > 0)
