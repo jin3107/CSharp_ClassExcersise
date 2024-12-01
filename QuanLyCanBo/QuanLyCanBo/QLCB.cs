@@ -78,7 +78,7 @@ namespace QuanLyCanBo
 
         public void SearchByName(string name)
         {
-            var result = DanhSachCanBo.Where(cb => cb.Ten.IndexOf(name, StringComparison.OrdinalIgnoreCase) >= 0).ToList();
+            var result = DanhSachCanBo.Where(cb => cb.Ten == name).ToList();
 
             if (result.Count() > 0)
             {
