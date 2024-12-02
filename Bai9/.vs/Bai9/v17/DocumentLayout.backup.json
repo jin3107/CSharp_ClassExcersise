@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE59A76-D343-4D36-A0AE-525FE7348DF8}|Bai9\\Bai9.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\bai9\\bai9\\quanlybienlai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE59A76-D343-4D36-A0AE-525FE7348DF8}|Bai9\\Bai9.csproj|solutionrelative:bai9\\quanlybienlai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE59A76-D343-4D36-A0AE-525FE7348DF8}|Bai9\\Bai9.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\bai9\\bai9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE59A76-D343-4D36-A0AE-525FE7348DF8}|Bai9\\Bai9.csproj|solutionrelative:bai9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE59A76-D343-4D36-A0AE-525FE7348DF8}|Bai9\\Bai9.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\bai9\\bai9\\bienlai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE59A76-D343-4D36-A0AE-525FE7348DF8}|Bai9\\Bai9.csproj|solutionrelative:bai9\\bienlai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE59A76-D343-4D36-A0AE-525FE7348DF8}|Bai9\\Bai9.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\bai9\\bai9\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE59A76-D343-4D36-A0AE-525FE7348DF8}|Bai9\\Bai9.csproj|solutionrelative:bai9\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BienLai.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai9\\Bai9\\BienLai.cs",
+              "RelativeDocumentMoniker": "Bai9\\BienLai.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai9\\Bai9\\BienLai.cs",
+              "RelativeToolTip": "Bai9\\BienLai.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAvwCoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T04:56:09.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuanLyBienLai.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai9\\Bai9\\QuanLyBienLai.cs",
+              "RelativeDocumentMoniker": "Bai9\\QuanLyBienLai.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai9\\Bai9\\QuanLyBienLai.cs*",
+              "RelativeToolTip": "Bai9\\QuanLyBienLai.cs*",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwEEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T04:47:30.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KhachHang.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai9\\Bai9\\KhachHang.cs",
+              "RelativeDocumentMoniker": "Bai9\\KhachHang.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai9\\Bai9\\KhachHang.cs",
+              "RelativeToolTip": "Bai9\\KhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T04:32:35.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai9\\Bai9\\Program.cs",
+              "RelativeDocumentMoniker": "Bai9\\Program.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai9\\Bai9\\Program.cs*",
+              "RelativeToolTip": "Bai9\\Program.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T04:29:52.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
