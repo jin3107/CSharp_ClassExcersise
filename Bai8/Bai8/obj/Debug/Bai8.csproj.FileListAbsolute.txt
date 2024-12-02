@@ -1,0 +1,7 @@
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\Bai8\Bai8\bin\Debug\Bai8.exe.config
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\Bai8\Bai8\bin\Debug\Bai8.exe
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\Bai8\Bai8\bin\Debug\Bai8.pdb
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\Bai8\Bai8\obj\Debug\Bai8.csproj.AssemblyReference.cache
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\Bai8\Bai8\obj\Debug\Bai8.csproj.CoreCompileInputs.cache
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\Bai8\Bai8\obj\Debug\Bai8.exe
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\Bai8\Bai8\obj\Debug\Bai8.pdb
