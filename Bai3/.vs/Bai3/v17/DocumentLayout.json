@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4557703F-47DB-4609-A636-6EC2F4213AB2}|Bai3\\Bai3.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\bai3\\bai3\\quanlytuyensinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4557703F-47DB-4609-A636-6EC2F4213AB2}|Bai3\\Bai3.csproj|solutionrelative:bai3\\quanlytuyensinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4557703F-47DB-4609-A636-6EC2F4213AB2}|Bai3\\Bai3.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\bai3\\bai3\\thisinhkhoia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4557703F-47DB-4609-A636-6EC2F4213AB2}|Bai3\\Bai3.csproj|solutionrelative:bai3\\thisinhkhoia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuanLyTuyenSinh.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai3\\Bai3\\QuanLyTuyenSinh.cs",
+              "RelativeDocumentMoniker": "Bai3\\QuanLyTuyenSinh.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai3\\Bai3\\QuanLyTuyenSinh.cs",
+              "RelativeToolTip": "Bai3\\QuanLyTuyenSinh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:57:09.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ThiSinhKhoiA.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai3\\Bai3\\ThiSinhKhoiA.cs",
+              "RelativeDocumentMoniker": "Bai3\\ThiSinhKhoiA.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai3\\Bai3\\ThiSinhKhoiA.cs",
+              "RelativeToolTip": "Bai3\\ThiSinhKhoiA.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:25:01.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

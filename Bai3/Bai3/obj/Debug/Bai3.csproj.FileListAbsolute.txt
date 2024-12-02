@@ -1,0 +1,7 @@
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\Bai3\Bai3\bin\Debug\Bai3.exe.config
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\Bai3\Bai3\bin\Debug\Bai3.exe
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\Bai3\Bai3\bin\Debug\Bai3.pdb
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\Bai3\Bai3\obj\Debug\Bai3.csproj.AssemblyReference.cache
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\Bai3\Bai3\obj\Debug\Bai3.csproj.CoreCompileInputs.cache
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\Bai3\Bai3\obj\Debug\Bai3.exe
+D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\Bai3\Bai3\obj\Debug\Bai3.pdb
