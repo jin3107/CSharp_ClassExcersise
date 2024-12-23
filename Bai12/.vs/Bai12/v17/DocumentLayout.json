@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0A6141-4FD6-4C7B-B415-F2892A84F691}|Bai12\\Bai12.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\bai12\\bai12\\quanlyphuongtien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0A6141-4FD6-4C7B-B415-F2892A84F691}|Bai12\\Bai12.csproj|solutionrelative:bai12\\quanlyphuongtien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0A6141-4FD6-4C7B-B415-F2892A84F691}|Bai12\\Bai12.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\bai12\\bai12\\phuongtien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0A6141-4FD6-4C7B-B415-F2892A84F691}|Bai12\\Bai12.csproj|solutionrelative:bai12\\phuongtien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0A6141-4FD6-4C7B-B415-F2892A84F691}|Bai12\\Bai12.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\bai12\\bai12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0A6141-4FD6-4C7B-B415-F2892A84F691}|Bai12\\Bai12.csproj|solutionrelative:bai12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0A6141-4FD6-4C7B-B415-F2892A84F691}|Bai12\\Bai12.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\bai12\\bai12\\xetai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0A6141-4FD6-4C7B-B415-F2892A84F691}|Bai12\\Bai12.csproj|solutionrelative:bai12\\xetai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0A6141-4FD6-4C7B-B415-F2892A84F691}|Bai12\\Bai12.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\bai12\\bai12\\oto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0A6141-4FD6-4C7B-B415-F2892A84F691}|Bai12\\Bai12.csproj|solutionrelative:bai12\\oto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F0A6141-4FD6-4C7B-B415-F2892A84F691}|Bai12\\Bai12.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\bai12\\bai12\\xemay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F0A6141-4FD6-4C7B-B415-F2892A84F691}|Bai12\\Bai12.csproj|solutionrelative:bai12\\xemay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuanLyPhuongTien.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai12\\Bai12\\QuanLyPhuongTien.cs",
+              "RelativeDocumentMoniker": "Bai12\\QuanLyPhuongTien.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai12\\Bai12\\QuanLyPhuongTien.cs",
+              "RelativeToolTip": "Bai12\\QuanLyPhuongTien.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T06:37:26.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai12\\Bai12\\Program.cs",
+              "RelativeDocumentMoniker": "Bai12\\Program.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai12\\Bai12\\Program.cs",
+              "RelativeToolTip": "Bai12\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T06:22:46.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "XeMay.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai12\\Bai12\\XeMay.cs",
+              "RelativeDocumentMoniker": "Bai12\\XeMay.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai12\\Bai12\\XeMay.cs",
+              "RelativeToolTip": "Bai12\\XeMay.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T06:32:36.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XeTai.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai12\\Bai12\\XeTai.cs",
+              "RelativeDocumentMoniker": "Bai12\\XeTai.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai12\\Bai12\\XeTai.cs",
+              "RelativeToolTip": "Bai12\\XeTai.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T06:33:39.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhuongTien.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai12\\Bai12\\PhuongTien.cs",
+              "RelativeDocumentMoniker": "Bai12\\PhuongTien.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai12\\Bai12\\PhuongTien.cs",
+              "RelativeToolTip": "Bai12\\PhuongTien.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T06:26:22.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Oto.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai12\\Bai12\\Oto.cs",
+              "RelativeDocumentMoniker": "Bai12\\Oto.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai12\\Bai12\\Oto.cs",
+              "RelativeToolTip": "Bai12\\Oto.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwB0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T06:28:49.672Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
