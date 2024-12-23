@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA530B25-380A-4A57-811C-ACA7B06C79DD}|Bai11\\Bai11.csproj|D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai11\\bai11\\sophuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA530B25-380A-4A57-811C-ACA7B06C79DD}|Bai11\\Bai11.csproj|solutionrelative:bai11\\sophuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA530B25-380A-4A57-811C-ACA7B06C79DD}|Bai11\\Bai11.csproj|D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai11\\bai11\\quanlysophuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA530B25-380A-4A57-811C-ACA7B06C79DD}|Bai11\\Bai11.csproj|solutionrelative:bai11\\quanlysophuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA530B25-380A-4A57-811C-ACA7B06C79DD}|Bai11\\Bai11.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\bai11\\bai11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA530B25-380A-4A57-811C-ACA7B06C79DD}|Bai11\\Bai11.csproj|solutionrelative:bai11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuanLySoPhuc.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai11\\Bai11\\QuanLySoPhuc.cs",
+              "RelativeDocumentMoniker": "Bai11\\QuanLySoPhuc.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai11\\Bai11\\QuanLySoPhuc.cs",
+              "RelativeToolTip": "Bai11\\QuanLySoPhuc.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:29:00.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SoPhuc.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai11\\Bai11\\SoPhuc.cs",
+              "RelativeDocumentMoniker": "Bai11\\SoPhuc.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai11\\Bai11\\SoPhuc.cs",
+              "RelativeToolTip": "Bai11\\SoPhuc.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAC0AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:20:53.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai11\\Bai11\\Program.cs",
+              "RelativeDocumentMoniker": "Bai11\\Program.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai11\\Bai11\\Program.cs",
+              "RelativeToolTip": "Bai11\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAqwBIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:19:38.027Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
