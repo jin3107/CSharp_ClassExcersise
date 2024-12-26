@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6FB315E0-C49B-4A5F-A59E-750ED4CAC77B}|Bai1\\Bai1.csproj|D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai1\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6FB315E0-C49B-4A5F-A59E-750ED4CAC77B}|Bai1\\Bai1.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\bai1\\bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FB315E0-C49B-4A5F-A59E-750ED4CAC77B}|Bai1\\Bai1.csproj|solutionrelative:bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FB315E0-C49B-4A5F-A59E-750ED4CAC77B}|Bai1\\Bai1.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\bai1\\bai1\\quanlycanbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6FB315E0-C49B-4A5F-A59E-750ED4CAC77B}|Bai1\\Bai1.csproj|D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai1\\bai1\\quanlycanbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FB315E0-C49B-4A5F-A59E-750ED4CAC77B}|Bai1\\Bai1.csproj|solutionrelative:bai1\\quanlycanbo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,6 +43,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -67,8 +71,7 @@
               "RelativeToolTip": "Bai1\\QuanLyCanBo.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T14:40:21.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T14:40:21.667Z"
             },
             {
               "$type": "Document",
