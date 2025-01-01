@@ -45,10 +45,17 @@ namespace QuanLyHoDanCu
                 return;
             }
 
-            for (int i = 0; i < KhuPhoDanCu.Count; i++)
+            //for (int i = 0; i < KhuPhoDanCu.Count; i++)
+            //{
+            //    Console.WriteLine($"\n-- Gia đình thứ {i + 1} --");
+            //    KhuPhoDanCu[i].Xuat();
+            //}
+
+            foreach (var giaDinh in KhuPhoDanCu)
             {
-                Console.WriteLine($"\n-- Gia đình thứ {i + 1} --");
-                KhuPhoDanCu[i].Xuat();
+                var thu = 0;
+                Console.WriteLine($"\n-- Gia đình thứ {thu + 1}");
+                giaDinh.Xuat();
             }
         }
 

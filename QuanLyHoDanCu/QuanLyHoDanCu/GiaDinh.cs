@@ -45,7 +45,7 @@ namespace QuanLyHoDanCu
             Console.WriteLine($"Địa chỉ gia đình: {DiaChi}");
             Console.WriteLine("- Danh sách thành viên -");
 
-            foreach (Nguoi nguoi in HoGiaDinh)
+            foreach (var nguoi in HoGiaDinh)
             {
                 nguoi.Xuat();
             }
