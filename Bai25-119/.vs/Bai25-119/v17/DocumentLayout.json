@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai25-119\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F08FB6AC-E6F3-477E-8E99-C594D552DC06}|Bai25-119\\Bai25-119.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\bai25-119\\bai25-119\\hinhtron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08FB6AC-E6F3-477E-8E99-C594D552DC06}|Bai25-119\\Bai25-119.csproj|solutionrelative:bai25-119\\hinhtron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08FB6AC-E6F3-477E-8E99-C594D552DC06}|Bai25-119\\Bai25-119.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\bai25-119\\bai25-119\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08FB6AC-E6F3-477E-8E99-C594D552DC06}|Bai25-119\\Bai25-119.csproj|solutionrelative:bai25-119\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08FB6AC-E6F3-477E-8E99-C594D552DC06}|Bai25-119\\Bai25-119.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\bai25-119\\bai25-119\\doanthang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08FB6AC-E6F3-477E-8E99-C594D552DC06}|Bai25-119\\Bai25-119.csproj|solutionrelative:bai25-119\\doanthang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08FB6AC-E6F3-477E-8E99-C594D552DC06}|Bai25-119\\Bai25-119.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\bai25-119\\bai25-119\\hinhchunhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08FB6AC-E6F3-477E-8E99-C594D552DC06}|Bai25-119\\Bai25-119.csproj|solutionrelative:bai25-119\\hinhchunhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08FB6AC-E6F3-477E-8E99-C594D552DC06}|Bai25-119\\Bai25-119.csproj|d:\\my project\\it\\visual studio 2022\\c#\\c#_oop\\exercise_in_class\\bai25-119\\bai25-119\\hinhhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08FB6AC-E6F3-477E-8E99-C594D552DC06}|Bai25-119\\Bai25-119.csproj|solutionrelative:bai25-119\\hinhhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HinhHoc.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai25-119\\Bai25-119\\HinhHoc.cs",
+              "RelativeDocumentMoniker": "Bai25-119\\HinhHoc.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai25-119\\Bai25-119\\HinhHoc.cs",
+              "RelativeToolTip": "Bai25-119\\HinhHoc.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAlwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:52:37.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HinhChuNhat.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai25-119\\Bai25-119\\HinhChuNhat.cs",
+              "RelativeDocumentMoniker": "Bai25-119\\HinhChuNhat.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai25-119\\Bai25-119\\HinhChuNhat.cs",
+              "RelativeToolTip": "Bai25-119\\HinhChuNhat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:52:21.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HinhTron.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai25-119\\Bai25-119\\HinhTron.cs",
+              "RelativeDocumentMoniker": "Bai25-119\\HinhTron.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai25-119\\Bai25-119\\HinhTron.cs",
+              "RelativeToolTip": "Bai25-119\\HinhTron.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:52:11.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoanThang.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai25-119\\Bai25-119\\DoanThang.cs",
+              "RelativeDocumentMoniker": "Bai25-119\\DoanThang.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai25-119\\Bai25-119\\DoanThang.cs",
+              "RelativeToolTip": "Bai25-119\\DoanThang.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAC0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:52:01.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Diem.cs",
+              "DocumentMoniker": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai25-119\\Bai25-119\\Diem.cs",
+              "RelativeDocumentMoniker": "Bai25-119\\Diem.cs",
+              "ToolTip": "D:\\My Project\\IT\\Visual Studio 2022\\C#\\C#_OOP\\Exercise_in_Class\\Bai25-119\\Bai25-119\\Diem.cs",
+              "RelativeToolTip": "Bai25-119\\Diem.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:45:09.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
