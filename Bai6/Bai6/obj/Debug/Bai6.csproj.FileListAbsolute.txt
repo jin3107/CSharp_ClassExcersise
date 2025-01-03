@@ -1,0 +1,7 @@
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai6\Bai6\bin\Debug\Bai6.exe.config
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai6\Bai6\bin\Debug\Bai6.exe
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai6\Bai6\bin\Debug\Bai6.pdb
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai6\Bai6\obj\Debug\Bai6.csproj.AssemblyReference.cache
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai6\Bai6\obj\Debug\Bai6.csproj.CoreCompileInputs.cache
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai6\Bai6\obj\Debug\Bai6.exe
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai6\Bai6\obj\Debug\Bai6.pdb

@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Workspace\\C#\\OOP\\CSharp_ClassExcersise\\Bai6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6398CC9-28AA-4D8E-AB95-E5F2B29C48DB}|Bai6\\Bai6.csproj|D:\\My Workspace\\C#\\OOP\\CSharp_ClassExcersise\\Bai6\\bai6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6398CC9-28AA-4D8E-AB95-E5F2B29C48DB}|Bai6\\Bai6.csproj|solutionrelative:bai6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6398CC9-28AA-4D8E-AB95-E5F2B29C48DB}|Bai6\\Bai6.csproj|d:\\my workspace\\c#\\oop\\csharp_classexcersise\\bai6\\bai6\\quanlyhosohs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6398CC9-28AA-4D8E-AB95-E5F2B29C48DB}|Bai6\\Bai6.csproj|solutionrelative:bai6\\quanlyhosohs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6398CC9-28AA-4D8E-AB95-E5F2B29C48DB}|Bai6\\Bai6.csproj|D:\\My Workspace\\C#\\OOP\\CSharp_ClassExcersise\\Bai6\\bai6\\hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6398CC9-28AA-4D8E-AB95-E5F2B29C48DB}|Bai6\\Bai6.csproj|solutionrelative:bai6\\hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuanLyHoSoHS.cs",
+              "DocumentMoniker": "D:\\My Workspace\\C#\\OOP\\CSharp_ClassExcersise\\Bai6\\Bai6\\QuanLyHoSoHS.cs",
+              "RelativeDocumentMoniker": "Bai6\\QuanLyHoSoHS.cs",
+              "ToolTip": "D:\\My Workspace\\C#\\OOP\\CSharp_ClassExcersise\\Bai6\\Bai6\\QuanLyHoSoHS.cs",
+              "RelativeToolTip": "Bai6\\QuanLyHoSoHS.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAwDIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:43:55.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HocSinh.cs",
+              "DocumentMoniker": "D:\\My Workspace\\C#\\OOP\\CSharp_ClassExcersise\\Bai6\\Bai6\\HocSinh.cs",
+              "RelativeDocumentMoniker": "Bai6\\HocSinh.cs",
+              "ToolTip": "D:\\My Workspace\\C#\\OOP\\CSharp_ClassExcersise\\Bai6\\Bai6\\HocSinh.cs",
+              "RelativeToolTip": "Bai6\\HocSinh.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvz4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:39:02.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workspace\\C#\\OOP\\CSharp_ClassExcersise\\Bai6\\Bai6\\Program.cs",
+              "RelativeDocumentMoniker": "Bai6\\Program.cs",
+              "ToolTip": "D:\\My Workspace\\C#\\OOP\\CSharp_ClassExcersise\\Bai6\\Bai6\\Program.cs",
+              "RelativeToolTip": "Bai6\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T13:27:02.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
