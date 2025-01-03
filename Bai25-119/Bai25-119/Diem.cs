@@ -26,7 +26,7 @@ namespace Bai25_119
             Console.InputEncoding = Encoding.UTF8;
             Console.OutputEncoding = Encoding.UTF8;
 
-            Console.Write("Nhập hoành độ X: ");
+            Console.Write("\nNhập hoành độ X: ");
             while (true)
             {
                 if (double.TryParse(Console.ReadLine(), out double x))
@@ -60,12 +60,6 @@ namespace Bai25_119
             Console.OutputEncoding = Encoding.UTF8;
 
             Console.WriteLine($"Tọa độ: ({X}, {Y})");
-        }
-
-        public static double KhoangCach(Diem A, Diem B)
-        {
-            double khoangCach = Math.Sqrt(Math.Pow(B.X - A.X, 2) + Math.Pow(B.Y - A.Y, 2));
-            return khoangCach;
         }
     }
 }

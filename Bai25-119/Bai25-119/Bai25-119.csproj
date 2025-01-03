@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BTHinhHoc.cs" />
     <Compile Include="Diem.cs" />
     <Compile Include="DoanThang.cs" />
     <Compile Include="HinhChuNhat.cs" />

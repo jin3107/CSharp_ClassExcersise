@@ -10,15 +10,13 @@ namespace Bai25_119
     {
         public Diem TamO { get; set; } = new Diem();
         public double BanKinh { get; set; }
-        public double DienTich { get; set; }
 
         public HinhTron() { }
 
-        public HinhTron(Diem tamO, double banKinh, double dienTich)
+        public HinhTron(Diem tamO, double banKinh)
         {
             TamO = tamO;
             BanKinh = banKinh;
-            DienTich = dienTich;
         }
 
         public override void Nhap()
@@ -45,10 +43,23 @@ namespace Bai25_119
             }
         }
 
+        public double DienTichHinhTron()
+        {
+            double dienTich = Math.PI * Math.Pow(BanKinh, 2);
+            return dienTich;
+        }
+
         public override void Xuat()
         {
-            throw new NotImplementedException();
-        }
-    }
+            Console.InputEncoding = Encoding.UTF8;
+            Console.OutputEncoding = Encoding.UTF8;
 
+            Console.WriteLine($"Tên hình: {TenHinh}");
+            Console.WriteLine($"Tâm O: ");
+            TamO.Xuat();
+            Console.WriteLine($"Bán kính: {BanKinh}");
+            Console.WriteLine($"Diện tích: {DienTichHinhTron()}");
+        }
+
+    }
 }

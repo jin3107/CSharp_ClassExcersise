@@ -1,0 +1,7 @@
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai25-119\Bai25-119\bin\Debug\Bai25-119.exe.config
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai25-119\Bai25-119\bin\Debug\Bai25-119.exe
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai25-119\Bai25-119\bin\Debug\Bai25-119.pdb
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai25-119\Bai25-119\obj\Debug\Bai25-119.csproj.AssemblyReference.cache
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai25-119\Bai25-119\obj\Debug\Bai25-119.csproj.CoreCompileInputs.cache
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai25-119\Bai25-119\obj\Debug\Bai25-119.exe
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai25-119\Bai25-119\obj\Debug\Bai25-119.pdb

@@ -1,7 +1,0 @@
-D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\BaiTapHinhHoc\BaiTapHinhHoc\bin\Debug\BaiTapHinhHoc.exe.config
-D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\BaiTapHinhHoc\BaiTapHinhHoc\bin\Debug\BaiTapHinhHoc.exe
-D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\BaiTapHinhHoc\BaiTapHinhHoc\bin\Debug\BaiTapHinhHoc.pdb
-D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\BaiTapHinhHoc\BaiTapHinhHoc\obj\Debug\BaiTapHinhHoc.csproj.AssemblyReference.cache
-D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\BaiTapHinhHoc\BaiTapHinhHoc\obj\Debug\BaiTapHinhHoc.csproj.CoreCompileInputs.cache
-D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\BaiTapHinhHoc\BaiTapHinhHoc\obj\Debug\BaiTapHinhHoc.exe
-D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\BaiTapHinhHoc\BaiTapHinhHoc\obj\Debug\BaiTapHinhHoc.pdb

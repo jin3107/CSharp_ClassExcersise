@@ -10,6 +10,9 @@ namespace Bai25_119
     {
         static void Main(string[] args)
         {
+            BTHinhHoc bTHinhHoc = new BTHinhHoc();
+            bTHinhHoc.ThemHinhHoc();
+            bTHinhHoc.XuatDanhSachHinhHoc();
         }
     }
 }
