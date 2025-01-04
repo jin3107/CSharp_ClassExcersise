@@ -10,7 +10,6 @@ namespace Bai5
     {
         public string LoaiPhong { get; set; }
         public int GiaPhong { get; set; }
-        public int SoNgayThue { get; set; }
 
         public Phong()
         {
@@ -20,34 +19,6 @@ namespace Bai5
         {
             LoaiPhong = loaiPhong;
             GiaPhong = giaPhong;
-            SoNgayThue = soNgayThue;
-        }
-
-        public void Nhap()
-        {
-            Console.InputEncoding = Encoding.Unicode;
-            Console.OutputEncoding = Encoding.Unicode;
-
-            while (true)
-            {
-                Console.Write("Nhập số ngày thuê: ");
-                if (int.TryParse(Console.ReadLine(), out int soNgayThue) && soNgayThue > 0 && soNgayThue <= 31)
-                {
-                    SoNgayThue = soNgayThue;
-                    break;
-                }
-                else
-                    Console.WriteLine("Số ngày thuê phải là số nguyên dương và không quá 31 ngày\n");
-            }
-        }
-
-        public void Xuat()
-        {
-            Console.InputEncoding = Encoding.Unicode;
-            Console.OutputEncoding = Encoding.Unicode;
-
-            Console.WriteLine($"Loại phòng: {LoaiPhong}, Giá phòng: {GiaPhong}");
-            Console.WriteLine($"Số ngày thuê: {SoNgayThue}");
         }
     }   
 }

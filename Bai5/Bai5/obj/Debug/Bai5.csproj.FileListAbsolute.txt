@@ -5,3 +5,10 @@ D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\Bai5\Bai5\obj\De
 D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\Bai5\Bai5\obj\Debug\Bai5.csproj.CoreCompileInputs.cache
 D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\Bai5\Bai5\obj\Debug\Bai5.exe
 D:\My Project\IT\Visual Studio 2022\C#\C#_OOP\Exercise_in_Class\Bai5\Bai5\obj\Debug\Bai5.pdb
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai5\Bai5\bin\Debug\Bai5.exe.config
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai5\Bai5\bin\Debug\Bai5.exe
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai5\Bai5\bin\Debug\Bai5.pdb
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai5\Bai5\obj\Debug\Bai5.csproj.AssemblyReference.cache
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai5\Bai5\obj\Debug\Bai5.csproj.CoreCompileInputs.cache
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai5\Bai5\obj\Debug\Bai5.exe
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai5\Bai5\obj\Debug\Bai5.pdb

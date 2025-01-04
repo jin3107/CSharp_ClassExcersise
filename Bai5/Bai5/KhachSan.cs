@@ -73,7 +73,7 @@ namespace Bai5
             nguoi = DanhSachKhachHang.Find(x => x.Cmnd == cmnd);
             if (nguoi != null)
             {
-                int tienThue = nguoi.PhongThue.GiaPhong * nguoi.PhongThue.SoNgayThue;
+                int tienThue = nguoi.PhongThue.GiaPhong * nguoi.SoNgayThue;
                 Console.WriteLine($"Tiền thuê phòng của khách hàng {nguoi.HoTen} là: {tienThue}$");
             }
             else

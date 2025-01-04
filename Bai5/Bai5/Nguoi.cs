@@ -11,17 +11,18 @@ namespace Bai5
         public string HoTen { get; set; }
         public int Tuoi { get; set; }
         public string Cmnd { get; set; }
-
         public Phong PhongThue { get; set; } = new Phong();
+        public int SoNgayThue { get; set; }
 
         public Nguoi() { }
 
-        public Nguoi(string hoTen, int tuoi, string cmnd, Phong phongThue)
+        public Nguoi(string hoTen, int tuoi, string cmnd, Phong phongThue, int soNgayThue)
         {
             HoTen = hoTen;
             Tuoi = tuoi;
             Cmnd = cmnd;
             PhongThue = phongThue;
+            SoNgayThue = soNgayThue;
         }
 
         public void Nhap()
@@ -67,7 +68,18 @@ namespace Bai5
                     Console.WriteLine("Loại phòng không hợp lệ");
                     break;
             }
-            PhongThue.Nhap();
+
+            while (true)
+            {
+                Console.Write("Nhập số ngày thuê: ");
+                if (int.TryParse(Console.ReadLine(), out int soNgayThue) && soNgayThue > 0)
+                {
+                    SoNgayThue = soNgayThue;
+                    break;
+                }
+                else
+                    Console.WriteLine("Số ngày thuê phải là số nguyên dương");
+            }
         }
 
         public void Xuat()
@@ -78,7 +90,8 @@ namespace Bai5
             Console.WriteLine($"Họ tên: {HoTen}");
             Console.WriteLine($"Tuổi: {Tuoi}");
             Console.WriteLine($"Số chứng minh nhân dân: {Cmnd}");
-            PhongThue.Xuat();
+            Console.WriteLine($"Loại phòng: {PhongThue.LoaiPhong}, Giá phòng: {PhongThue.GiaPhong}");
+            Console.WriteLine($"Số ngày thuê: {SoNgayThue}");
         }
     }
 }
