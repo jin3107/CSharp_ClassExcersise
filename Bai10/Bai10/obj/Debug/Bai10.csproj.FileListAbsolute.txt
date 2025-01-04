@@ -1,0 +1,7 @@
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai10\Bai10\bin\Debug\Bai10.exe.config
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai10\Bai10\bin\Debug\Bai10.exe
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai10\Bai10\bin\Debug\Bai10.pdb
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai10\Bai10\obj\Debug\Bai10.csproj.AssemblyReference.cache
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai10\Bai10\obj\Debug\Bai10.csproj.CoreCompileInputs.cache
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai10\Bai10\obj\Debug\Bai10.exe
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai10\Bai10\obj\Debug\Bai10.pdb
