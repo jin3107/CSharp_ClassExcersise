@@ -25,9 +25,10 @@ namespace Bai1
 
                 if (!int.TryParse(Console.ReadLine(), out int chon))
                 {
-                    Console.WriteLine("Lựa chọn không hợp lệ. Nhập lại");
+                    Console.WriteLine("Lựa chọn không đúng định dạng. Nhập lại");
                     continue;
                 }
+
                 switch(chon)
                 {
                     case 1:

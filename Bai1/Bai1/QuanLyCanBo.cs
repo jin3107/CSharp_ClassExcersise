@@ -21,35 +21,42 @@ namespace Bai1
             Console.OutputEncoding = Encoding.UTF8;
 
             Console.WriteLine("\n--- Nhập thông tin cán bộ ---\n");
-            int loai;
             while (true)
             {
-                Console.WriteLine("1. Công nhân, 2. Kỹ sư, 3. Nhân viên");
+                Console.WriteLine("1. Công nhân\n2. Kỹ sư\n3. Nhân viên\n4. Thoát");
                 Console.Write("Lựa chọn của bạn: ");
-                if (int.TryParse(Console.ReadLine(), out loai) && loai >= 1 && loai <= 3)
-                { break; }
-                Console.WriteLine("Lựa chọn không hợp lệ. Nhập lại!\n");
-            }
-            CanBo canBo;
-            switch (loai)
-            {
-                case 1: 
-                    canBo = new CongNhan(); break;
-                case 2:
-                    canBo = new KySu(); break;
-                case 3: 
-                    canBo = new NhanVien(); break;
-                default:
-                    return;
-            }
+                if (!int.TryParse(Console.ReadLine(), out int loai))
+                {
+                    Console.WriteLine("Lựa chọn không đúng định dạng. Nhập lại!\n");
+                    continue;
+                }
 
-            try
-            {
-                canBo.Nhap();
-                DanhSachCanBo.Add(canBo);
+                CanBo canBo;
+                switch (loai)
+                {
+                    case 1:
+                        canBo = new CongNhan(); break;
+                    case 2:
+                        canBo = new KySu(); break;
+                    case 3:
+                        canBo = new NhanVien(); break;
+                    case 4:
+                        return;
+                    default:
+                        Console.WriteLine("Lựa chọn không hợp lệ. Vui lòng chọn lại.\n");
+                        continue;
+                }
+
+                try
+                {
+                    canBo.Nhap();
+                    DanhSachCanBo.Add(canBo);
+                }
+                catch (Exception ex)
+                { 
+                    Console.WriteLine($"Lỗi: {ex.Message}"); 
+                }
             }
-            catch (Exception ex)
-            {  Console.WriteLine($"Lỗi: {ex.Message}"); return;}
         }
 
         public void HienThiCanBo()

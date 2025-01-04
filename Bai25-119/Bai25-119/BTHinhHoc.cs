@@ -35,15 +35,14 @@ namespace Bai25_119
                 Console.WriteLine("1. Đoạn thẳng\n2. Hình tròn\n3. Hình chữ nhật\n4. Thoát");
                 Console.Write("Lựa chọn của bạn: ");
 
-                int luaChon;
-                if (!int.TryParse(Console.ReadLine(), out luaChon))
+                if (!int.TryParse(Console.ReadLine(), out int luaChon))
                 {
                     Console.WriteLine("Nhập sai định dạng. Vui lòng nhập lại.\n");
                     i--; // Giảm i để nhập lại hình hiện tại
                     continue;
                 }
 
-                HinhHoc hinhHoc = null;
+                HinhHoc hinhHoc;
                 switch (luaChon)
                 {
                     case 1:
