@@ -1,0 +1,7 @@
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai13\Bai13\bin\Debug\Bai13.exe.config
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai13\Bai13\bin\Debug\Bai13.exe
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai13\Bai13\bin\Debug\Bai13.pdb
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai13\Bai13\obj\Debug\Bai13.csproj.AssemblyReference.cache
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai13\Bai13\obj\Debug\Bai13.csproj.CoreCompileInputs.cache
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai13\Bai13\obj\Debug\Bai13.exe
+D:\My Workspace\C#\OOP\CSharp_ClassExcersise\Bai13\Bai13\obj\Debug\Bai13.pdb

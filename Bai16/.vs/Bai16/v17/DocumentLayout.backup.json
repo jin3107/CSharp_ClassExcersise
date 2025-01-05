@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My Workspace\\C#\\OOP\\CSharp_ClassExcersise\\Bai16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C84670-C3C7-4C33-9186-80453F2BE37B}|Bai16\\Bai16.csproj|d:\\my workspace\\c#\\oop\\csharp_classexcersise\\bai16\\bai16\\hinhtron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C84670-C3C7-4C33-9186-80453F2BE37B}|Bai16\\Bai16.csproj|solutionrelative:bai16\\hinhtron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C84670-C3C7-4C33-9186-80453F2BE37B}|Bai16\\Bai16.csproj|d:\\my workspace\\c#\\oop\\csharp_classexcersise\\bai16\\bai16\\hinhchunhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C84670-C3C7-4C33-9186-80453F2BE37B}|Bai16\\Bai16.csproj|solutionrelative:bai16\\hinhchunhat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C84670-C3C7-4C33-9186-80453F2BE37B}|Bai16\\Bai16.csproj|d:\\my workspace\\c#\\oop\\csharp_classexcersise\\bai16\\bai16\\hinhhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C84670-C3C7-4C33-9186-80453F2BE37B}|Bai16\\Bai16.csproj|solutionrelative:bai16\\hinhhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C84670-C3C7-4C33-9186-80453F2BE37B}|Bai16\\Bai16.csproj|d:\\my workspace\\c#\\oop\\csharp_classexcersise\\bai16\\bai16\\tamgiac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C84670-C3C7-4C33-9186-80453F2BE37B}|Bai16\\Bai16.csproj|solutionrelative:bai16\\tamgiac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C84670-C3C7-4C33-9186-80453F2BE37B}|Bai16\\Bai16.csproj|d:\\my workspace\\c#\\oop\\csharp_classexcersise\\bai16\\bai16\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C84670-C3C7-4C33-9186-80453F2BE37B}|Bai16\\Bai16.csproj|solutionrelative:bai16\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C84670-C3C7-4C33-9186-80453F2BE37B}|Bai16\\Bai16.csproj|d:\\my workspace\\c#\\oop\\csharp_classexcersise\\bai16\\bai16\\bthinhhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C84670-C3C7-4C33-9186-80453F2BE37B}|Bai16\\Bai16.csproj|solutionrelative:bai16\\bthinhhoc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7C84670-C3C7-4C33-9186-80453F2BE37B}|Bai16\\Bai16.csproj|d:\\my workspace\\c#\\oop\\csharp_classexcersise\\bai16\\bai16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7C84670-C3C7-4C33-9186-80453F2BE37B}|Bai16\\Bai16.csproj|solutionrelative:bai16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My Workspace\\C#\\OOP\\CSharp_ClassExcersise\\Bai16\\Bai16\\Program.cs",
+              "RelativeDocumentMoniker": "Bai16\\Program.cs",
+              "ToolTip": "D:\\My Workspace\\C#\\OOP\\CSharp_ClassExcersise\\Bai16\\Bai16\\Program.cs",
+              "RelativeToolTip": "Bai16\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T15:48:21.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BTHinhHoc.cs",
+              "DocumentMoniker": "D:\\My Workspace\\C#\\OOP\\CSharp_ClassExcersise\\Bai16\\Bai16\\BTHinhHoc.cs",
+              "RelativeDocumentMoniker": "Bai16\\BTHinhHoc.cs",
+              "ToolTip": "D:\\My Workspace\\C#\\OOP\\CSharp_ClassExcersise\\Bai16\\Bai16\\BTHinhHoc.cs",
+              "RelativeToolTip": "Bai16\\BTHinhHoc.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T15:38:44.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Diem.cs",
+              "DocumentMoniker": "D:\\My Workspace\\C#\\OOP\\CSharp_ClassExcersise\\Bai16\\Bai16\\Diem.cs",
+              "RelativeDocumentMoniker": "Bai16\\Diem.cs",
+              "ToolTip": "D:\\My Workspace\\C#\\OOP\\CSharp_ClassExcersise\\Bai16\\Bai16\\Diem.cs",
+              "RelativeToolTip": "Bai16\\Diem.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowCgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T15:16:09.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HinhTron.cs",
+              "DocumentMoniker": "D:\\My Workspace\\C#\\OOP\\CSharp_ClassExcersise\\Bai16\\Bai16\\HinhTron.cs",
+              "RelativeDocumentMoniker": "Bai16\\HinhTron.cs",
+              "ToolTip": "D:\\My Workspace\\C#\\OOP\\CSharp_ClassExcersise\\Bai16\\Bai16\\HinhTron.cs",
+              "RelativeToolTip": "Bai16\\HinhTron.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T15:14:54.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HinhHoc.cs",
+              "DocumentMoniker": "D:\\My Workspace\\C#\\OOP\\CSharp_ClassExcersise\\Bai16\\Bai16\\HinhHoc.cs",
+              "RelativeDocumentMoniker": "Bai16\\HinhHoc.cs",
+              "ToolTip": "D:\\My Workspace\\C#\\OOP\\CSharp_ClassExcersise\\Bai16\\Bai16\\HinhHoc.cs",
+              "RelativeToolTip": "Bai16\\HinhHoc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T15:14:52.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HinhChuNhat.cs",
+              "DocumentMoniker": "D:\\My Workspace\\C#\\OOP\\CSharp_ClassExcersise\\Bai16\\Bai16\\HinhChuNhat.cs",
+              "RelativeDocumentMoniker": "Bai16\\HinhChuNhat.cs",
+              "ToolTip": "D:\\My Workspace\\C#\\OOP\\CSharp_ClassExcersise\\Bai16\\Bai16\\HinhChuNhat.cs",
+              "RelativeToolTip": "Bai16\\HinhChuNhat.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T15:13:09.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TamGiac.cs",
+              "DocumentMoniker": "D:\\My Workspace\\C#\\OOP\\CSharp_ClassExcersise\\Bai16\\Bai16\\TamGiac.cs",
+              "RelativeDocumentMoniker": "Bai16\\TamGiac.cs",
+              "ToolTip": "D:\\My Workspace\\C#\\OOP\\CSharp_ClassExcersise\\Bai16\\Bai16\\TamGiac.cs",
+              "RelativeToolTip": "Bai16\\TamGiac.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T15:07:42.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
